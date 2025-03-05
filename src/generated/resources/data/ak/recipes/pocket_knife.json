@@ -1,0 +1,35 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "ak:pocket_knife",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "slashblade:proudsoul_trapezohedron"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "C": {
+      "item": "ak:gem"
+    },
+    "D": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 2118,
+        "name": "ak:yataghans",
+        "proud_soul": 9999,
+        "refine": 38
+      }
+    }
+  },
+  "pattern": [
+    "ABB",
+    "BCB",
+    "DBA"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

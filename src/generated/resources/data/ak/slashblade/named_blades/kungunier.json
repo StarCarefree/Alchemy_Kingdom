@@ -1,0 +1,31 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 0
+    }
+  ],
+  "name": "ak:kungunier",
+  "properties": {
+    "attack_base": 55.0,
+    "max_damage": 180,
+    "slash_art": "ak:fate",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "ak:model/named/kungunier/sange.obj",
+    "summon_sword_color": 16777215,
+    "texture": "ak:model/named/kungunier/blood.png"
+  }
+}

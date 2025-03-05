@@ -1,0 +1,54 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "ak:greedy",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "ak:gem"
+    },
+    "B": {
+      "item": "minecraft:gold_block"
+    },
+    "C": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 99,
+        "name": "slashblade:rodai_iron",
+        "proud_soul": 999,
+        "refine": 9
+      }
+    },
+    "D": {
+      "item": "minecraft:nether_quartz_ore"
+    },
+    "E": {
+      "item": "ak:dragon_cross"
+    },
+    "F": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "G": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 2100,
+        "name": "ak:yataghans",
+        "proud_soul": 6000,
+        "refine": 27
+      }
+    },
+    "H": {
+      "item": "slashblade:proudsoul_trapezohedron"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHA"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,39 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "ak:yataghans",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "proud_soul": 100,
+        "refine": 1
+      }
+    },
+    "B": {
+      "item": "slashblade:proudsoul_ingot"
+    },
+    "C": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:black_dye"
+    },
+    "E": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "F": {
+      "item": "minecraft:iron_sword"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "BDE",
+    "CEF"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,54 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "ak:jealous",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "ak:gem"
+    },
+    "B": {
+      "item": "minecraft:sculk_vein"
+    },
+    "C": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 99,
+        "name": "slashblade:rodai_netherite",
+        "proud_soul": 999,
+        "refine": 9
+      }
+    },
+    "D": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "E": {
+      "item": "ak:dragon_cross"
+    },
+    "F": {
+      "item": "minecraft:echo_shard"
+    },
+    "G": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 3000,
+        "name": "ak:yataghans",
+        "proud_soul": 11000,
+        "refine": 45
+      }
+    },
+    "H": {
+      "item": "slashblade:proudsoul_trapezohedron"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHA"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

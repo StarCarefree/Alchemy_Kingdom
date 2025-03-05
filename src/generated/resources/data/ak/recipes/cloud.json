@@ -1,0 +1,41 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "ak:cloud",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "ak:dragon_cross"
+    },
+    "B": {
+      "item": "minecraft:end_stone"
+    },
+    "C": {
+      "item": "minecraft:nether_star"
+    },
+    "D": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "E": {
+      "item": "minecraft:netherite_sword"
+    },
+    "F": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 3000,
+        "name": "slashblade:sange",
+        "proud_soul": 12999,
+        "refine": 43
+      }
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DEB",
+    "FDA"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

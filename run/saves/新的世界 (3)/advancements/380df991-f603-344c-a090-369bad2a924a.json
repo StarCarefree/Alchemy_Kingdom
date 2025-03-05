@@ -1,0 +1,363 @@
+{
+  "slashblade:movesets": {
+    "criteria": {
+      "crafting": "2025-02-20 17:40:57 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-02-20 17:40:57 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:give_smart_slab": {
+    "criteria": {
+      "tick": "2025-02-20 17:40:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-02-20 17:40:58 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-02-20 17:40:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-02-26 19:31:22 +0800",
+      "minecraft:taiga": "2025-02-26 19:27:47 +0800",
+      "minecraft:frozen_river": "2025-02-20 17:43:02 +0800",
+      "minecraft:birch_forest": "2025-02-26 19:31:53 +0800",
+      "minecraft:beach": "2025-02-20 18:05:21 +0800",
+      "minecraft:river": "2025-02-20 18:05:23 +0800",
+      "minecraft:snowy_plains": "2025-02-20 17:41:00 +0800",
+      "minecraft:cold_ocean": "2025-02-20 18:03:26 +0800",
+      "minecraft:forest": "2025-02-20 18:05:22 +0800",
+      "minecraft:old_growth_spruce_taiga": "2025-02-26 19:31:37 +0800",
+      "minecraft:meadow": "2025-02-26 19:27:52 +0800"
+    },
+    "done": false
+  },
+  "slashblade:recipes/combat/yuzukitukumo": {
+    "criteria": {
+      "has_slashblade": "2025-02-20 17:41:13 +0800"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/muramasa": {
+    "criteria": {
+      "has_slashblade": "2025-02-20 17:41:13 +0800"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/yamato_fix": {
+    "criteria": {
+      "has_proudsoul_sphere": "2025-02-20 17:41:18 +0800"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_sphere": {
+    "criteria": {
+      "BrokenBlade": "2025-02-20 17:41:18 +0800"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/doutanuki": {
+    "criteria": {
+      "has_proudsoul_sphere": "2025-02-20 17:41:18 +0800"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/orotiagito": {
+    "criteria": {
+      "has_proudsoul_sphere": "2025-02-20 17:41:18 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/rapid_slash": {
+    "criteria": {
+      "customtrigger": "2025-02-20 17:41:54 +0800"
+    },
+    "done": true
+  },
+  "l2hostility:recipes/misc/bottle_of_sanity_craft": {
+    "criteria": {
+      "has_hostility_orb": "2025-02-20 17:42:02 +0800"
+    },
+    "done": true
+  },
+  "l2hostility:hostility/patchouli": {
+    "criteria": {
+      "0": "2025-02-20 17:42:02 +0800"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2025-02-20 17:42:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-02-26 19:27:57 +0800",
+      "minecraft:creeper": "2025-02-20 17:42:02 +0800",
+      "minecraft:zombie": "2025-02-20 17:42:02 +0800"
+    },
+    "done": false
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2025-02-20 17:42:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-20 17:42:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-02-20 17:42:02 +0800"
+    },
+    "done": true
+  },
+  "l2hostility:hostility/root": {
+    "criteria": {
+      "0": "2025-02-20 17:42:02 +0800"
+    },
+    "done": true
+  },
+  "l2hostility:recipes/misc/chaos_ingot": {
+    "criteria": {
+      "has_hostility_orb": "2025-02-20 17:42:02 +0800"
+    },
+    "done": true
+  },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-02-20 17:42:03 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/quick_charge": {
+    "criteria": {
+      "customtrigger": "2025-02-20 17:42:13 +0800"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-20 17:42:13 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/shooting/summonedswords": {
+    "criteria": {
+      "customtrigger": "2025-02-20 17:42:55 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-20 18:03:34 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_cleave": {
+    "criteria": {
+      "customtrigger": "2025-02-20 18:05:30 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/upperslash_jump": {
+    "criteria": {
+      "customtrigger": "2025-02-20 18:05:31 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/upperslash": {
+    "criteria": {
+      "customtrigger": "2025-02-20 18:05:31 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/rising_star": {
+    "criteria": {
+      "customtrigger": "2025-02-20 18:05:40 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-02-20 18:19:59 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2025-02-20 18:20:01 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b_max": {
+    "criteria": {
+      "customtrigger": "2025-02-20 18:20:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-20 18:20:53 +0800"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/renew/reinforced_deepslate": {
+    "criteria": {
+      "has_warden_bone_shard": "2025-02-20 18:20:55 +0800"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/sculkium_ingot": {
+    "criteria": {
+      "has_warden_bone_shard": "2025-02-20 18:20:55 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-02-22 15:53:01 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-02-22 15:53:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-22 15:53:09 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2025-02-26 19:29:49 +0800"
+    },
+    "done": true
+  },
+  "slashblade:tips/refine": {
+    "criteria": {
+      "customtrigger": "2025-02-26 20:04:34 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

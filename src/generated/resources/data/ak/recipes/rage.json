@@ -1,0 +1,54 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "ak:rage",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "ak:gem"
+    },
+    "B": {
+      "item": "minecraft:elytra"
+    },
+    "C": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 99,
+        "name": "slashblade:yamato",
+        "proud_soul": 999,
+        "refine": 9
+      }
+    },
+    "D": {
+      "item": "minecraft:end_crystal"
+    },
+    "E": {
+      "item": "ak:dragon_cross"
+    },
+    "F": {
+      "item": "minecraft:blaze_rod"
+    },
+    "G": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 3500,
+        "name": "ak:yataghans",
+        "proud_soul": 15000,
+        "refine": 50
+      }
+    },
+    "H": {
+      "item": "slashblade:proudsoul_trapezohedron"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHA"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

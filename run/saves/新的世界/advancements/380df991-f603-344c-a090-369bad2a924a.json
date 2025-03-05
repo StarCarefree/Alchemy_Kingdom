@@ -1,0 +1,332 @@
+{
+  "slashblade:movesets": {
+    "criteria": {
+      "crafting": "2025-02-09 13:57:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-02-09 13:57:32 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-02-09 13:57:32 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-02-09 13:57:32 +0800"
+    },
+    "done": true
+  },
+  "touhou_little_maid:give_smart_slab": {
+    "criteria": {
+      "tick": "2025-02-09 13:57:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-02-09 13:57:35 +0800"
+    },
+    "done": false
+  },
+  "slashblade:recipes/combat/yuzukitukumo": {
+    "criteria": {
+      "has_slashblade": "2025-02-09 13:58:45 +0800"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/muramasa": {
+    "criteria": {
+      "has_slashblade": "2025-02-09 13:58:45 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-02-09 13:58:49 +0800"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2025-02-09 14:27:17 +0800"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2025-02-09 14:27:17 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/judgement_cut_just": {
+    "criteria": {
+      "customtrigger": "2025-02-09 14:27:17 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/quick_charge": {
+    "criteria": {
+      "customtrigger": "2025-02-09 14:27:17 +0800"
+    },
+    "done": true
+  },
+  "l2hostility:recipes/misc/bottle_of_sanity_craft": {
+    "criteria": {
+      "has_hostility_orb": "2025-02-09 14:27:18 +0800"
+    },
+    "done": true
+  },
+  "l2hostility:hostility/patchouli": {
+    "criteria": {
+      "0": "2025-02-09 14:27:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-02-09 16:22:29 +0800",
+      "minecraft:spider": "2025-02-09 15:59:46 +0800",
+      "minecraft:creeper": "2025-02-10 14:42:35 +0800",
+      "minecraft:slime": "2025-02-09 14:27:18 +0800",
+      "minecraft:enderman": "2025-02-09 17:38:52 +0800",
+      "minecraft:zombie": "2025-02-09 16:14:10 +0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-09 14:27:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:slime": "2025-02-09 14:27:18 +0800"
+    },
+    "done": true
+  },
+  "l2hostility:hostility/root": {
+    "criteria": {
+      "0": "2025-02-09 14:27:18 +0800"
+    },
+    "done": true
+  },
+  "l2hostility:recipes/misc/chaos_ingot": {
+    "criteria": {
+      "has_hostility_orb": "2025-02-09 14:27:18 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/rapid_slash": {
+    "criteria": {
+      "customtrigger": "2025-02-09 14:27:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-09 14:27:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-09 14:27:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-09 14:27:22 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/shooting/summonedswords": {
+    "criteria": {
+      "customtrigger": "2025-02-09 14:27:24 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/judgement_cut": {
+    "criteria": {
+      "customtrigger": "2025-02-09 14:27:29 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-02-09 14:27:36 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/rising_star": {
+    "criteria": {
+      "customtrigger": "2025-02-09 14:27:43 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_cleave": {
+    "criteria": {
+      "customtrigger": "2025-02-09 14:27:45 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/upperslash": {
+    "criteria": {
+      "customtrigger": "2025-02-09 14:27:45 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/upperslash_jump": {
+    "criteria": {
+      "customtrigger": "2025-02-09 14:27:46 +0800"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/yamato_fix": {
+    "criteria": {
+      "has_proudsoul_sphere": "2025-02-09 15:59:23 +0800"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_sphere": {
+    "criteria": {
+      "BrokenBlade": "2025-02-09 15:59:23 +0800"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/doutanuki": {
+    "criteria": {
+      "has_proudsoul_sphere": "2025-02-09 15:59:23 +0800"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/orotiagito": {
+    "criteria": {
+      "has_proudsoul_sphere": "2025-02-09 15:59:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-09 16:13:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-09 16:14:12 +0800"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-09 16:14:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-09 17:36:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-09 17:36:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-09 17:36:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-09 17:36:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-09 17:36:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-09 17:36:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-02-09 17:36:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-09 17:36:48 +0800"
+    },
+    "done": true
+  },
+  "l2hostility:hostility/kill_first": {
+    "criteria": {
+      "0": "2025-02-10 14:41:55 +0800"
+    },
+    "done": true
+  },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2025-02-10 14:51:04 +0800"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul": {
+    "criteria": {
+      "BrokenBlade": "2025-02-10 15:07:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-10 15:07:26 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2025-02-10 15:50:33 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2025-02-10 15:52:10 +0800"
+    },
+    "done": true
+  },
+  "slashblade:arts/shooting/spiral_swords": {
+    "criteria": {
+      "customtrigger": "2025-02-10 15:52:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-10 21:08:28 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

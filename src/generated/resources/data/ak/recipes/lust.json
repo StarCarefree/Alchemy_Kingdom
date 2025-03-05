@@ -1,0 +1,54 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "ak:lust",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "ak:gem"
+    },
+    "B": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "C": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 99,
+        "name": "slashblade:rodai_wooden",
+        "proud_soul": 999,
+        "refine": 9
+      }
+    },
+    "D": {
+      "item": "minecraft:lapis_block"
+    },
+    "E": {
+      "item": "ak:dragon_cross"
+    },
+    "F": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "G": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1500,
+        "name": "ak:yataghans",
+        "proud_soul": 3000,
+        "refine": 14
+      }
+    },
+    "H": {
+      "item": "slashblade:proudsoul_trapezohedron"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHA"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

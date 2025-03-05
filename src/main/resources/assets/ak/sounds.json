@@ -1,0 +1,11 @@
+{
+  "time_stop": {
+    "subtitle": "subtitles.time_stop",
+    "sounds": [
+      {
+        "name": "ak:time_stop",
+        "stream": false
+      }
+    ]
+  }
+}

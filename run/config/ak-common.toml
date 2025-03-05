@@ -1,0 +1,16 @@
+#Whether to log the dirt block on common setup
+logDirtBlock = true
+#UP TALENT B NEED KILL NUMBER
+#Range: > 0
+up_b_kill_number = 10
+#What you want the introduction message to be for the magic number
+up_s_boss = "minecraft:warden"
+#What you want the introduction message to be for the magic number
+drop_dragon_cross_boss = "minecraft:ender_dragon"
+#What you want the introduction message to be for the magic number
+magicNumberIntroduction = "The magic number is... "
+#What you want the introduction message to be for the magic number
+drop_world_tree_boss = "minecraft:warden"
+#A list of items to log on common setup.
+items = ["minecraft:iron_ingot"]
+

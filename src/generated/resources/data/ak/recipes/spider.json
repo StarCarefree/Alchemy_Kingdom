@@ -1,0 +1,47 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "ak:spider",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "B": {
+      "item": "minecraft:lapis_block"
+    },
+    "C": {
+      "item": "minecraft:iron_block"
+    },
+    "D": {
+      "item": "slashblade:proudsoul_ingot"
+    },
+    "E": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1500,
+        "name": "slashblade:ruby",
+        "proud_soul": 6000,
+        "refine": 30
+      }
+    },
+    "F": {
+      "item": "minecraft:obsidian"
+    },
+    "G": {
+      "item": "minecraft:diamond"
+    },
+    "H": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GDH"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

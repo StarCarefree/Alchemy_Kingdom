@@ -1,0 +1,253 @@
+#Allow entity specific difficulty configs to load
+enableEntitySpecificDatapack = true
+#Allow structure specific difficulty configs to load
+enableStructureSpecificDatapack = true
+
+[scaling]
+	#Health factor per level
+	#Range: 0.0 ~ 1000.0
+	healthFactor = 0.03
+	#Use exponential health
+	exponentialHealth = false
+	#Damage factor per level
+	#Range: 0.0 ~ 1000.0
+	damageFactor = 0.02
+	#Use exponential damage
+	exponentialDamage = false
+	#Experience drop factor per level
+	#Range: 0.0 ~ 1000.0
+	expDropFactor = 0.05
+	#Chance per level for drowned to hold trident
+	#Range: 0.0 ~ 1000.0
+	drownedTridentChancePerLevel = 0.005
+	#Enchantment bonus per level.
+	#Note: use it only when Apotheosis is installed
+	#Otherwise too high enchantment level will yield no enchantment
+	#Range: 0.0 ~ 1000.0
+	enchantmentFactor = 0.0
+	#Difficulty bonus per level visited
+	#Range: 0 ~ 1000
+	dimensionFactor = 10
+	#Difficulty bonus per block from origin
+	#Range: 0.0 ~ 1000.0
+	distanceFactor = 0.003
+	#Chance for health/damage bonus and trait to apply
+	#Not applicable to mobs with minimum level.
+	#Range: 0.0 ~ 1.0
+	globalApplyChance = 1.0
+	#Chance for trait to apply
+	#Not applicable to mobs with minimum level.
+	#Range: 0.0 ~ 1.0
+	globalTraitChance = 1.0
+	#Chance to stop adding traits after adding a trait
+	#Not applicable to mobs with minimum level.
+	#Range: 0.0 ~ 1.0
+	globalTraitSuppression = 0.1
+	#Allow legendary traits
+	allowLegendary = true
+	#Allow chunk section to accumulate difficulty
+	allowSectionDifficulty = true
+	#Allow difficulty clearing bypass mob minimum level
+	allowBypassMinimum = true
+	#Allow level-related extra enchantment spawning
+	allowExtraEnchantments = true
+	#Default dimension base difficulty for mod dimensions
+	#Range: 0 ~ 1000
+	defaultLevelBase = 20
+	#Default dimension difficulty variation for mod dimensions
+	#Range: 0.0 ~ 1000.0
+	defaultLevelVar = 16.0
+	#Default dimension difficulty scale for mod dimensions
+	#Range: 0.0 ~ 10.0
+	defaultLevelScale = 1.5
+	#Mobs at Lv.N will have N x k% chance to have trait
+	#Default k% = 0.01, so Lv.N mobs with have N% chance to have trait
+	#Mobs with entity config and trait chance of 1 will not be affected
+	#Range: 0.0 ~ 1.0
+	initialTraitChanceSlope = 0.01
+	#Slimes hostility loot drop rate decay per split
+	#Range: 0.0 ~ 1.0
+	splitDropRateFactor = 0.25
+	#Allow mobs without AI to have levels
+	allowNoAI = false
+	#Allow mobs allied to player to have levels
+	allowPlayerAllies = false
+	#Keep traits on mobs tamed by player
+	allowTraitOnOwnable = false
+	#Drop rate of hostility loot from mobs from spawner
+	#Range: 0.0 ~ 1.0
+	dropRateFromSpawner = 0.5
+
+[difficulty]
+	#Max player adaptive level
+	#Range: 100 ~ 100000
+	maxPlayerLevel = 2000
+	#Max mob level
+	#Range: 100 ~ 100000
+	maxMobLevel = 3000
+	#Difficulty increment takes this many kills of same level mob
+	#Range: 1 ~ 100000
+	killsPerLevel = 30
+	#Decay in player difficulty on death
+	#Range: 0.0 ~ 2.0
+	playerDeathDecay = 0.8
+	#Allow KeepInventory to keep difficulty as well
+	keepInventoryRuleKeepDifficulty = false
+	#On player death, clear dimension penalty
+	deathDecayDimension = true
+	#On player death, reduce max trait spawned by 1
+	deathDecayTraitCap = true
+	#Mobs spawned within this range will use lowest player level in range instead of nearest player's level to determine mob level
+	#Range: 0 ~ 128
+	newPlayerProtectRange = 48
+
+[orb_and_spawner]
+	#Allow to use hostility orb
+	allowHostilityOrb = true
+	#Radius for Hostility Orb to take effect.
+	#0 means 1x1x1 section, 1 means 3x3x3 sections, 2 means 5x5x5 sections
+	#Range: 0 ~ 10
+	orbRadius = 2
+	#Allow to use hostility spawner
+	allowHostilitySpawner = true
+	#Number of mobs to spawn in Hostility Spawner
+	#Range: 1 ~ 64
+	hostilitySpawnCount = 16
+	#Level bonus factor for mobs to spawn in Hostility Spawner
+	#Range: 1 ~ 10000
+	hostilitySpawnLevelFactor = 2
+
+[items]
+	#Ban drinking bottle of curse and sanity
+	banBottles = false
+	#Disable curio requirement for hostility loot
+	disableHostilityLootCurioRequirement = false
+	#Number of level to add when using bottle of curse
+	#Range: 0 ~ 1000
+	bottleOfCurseLevel = 50
+	#Minimum duration for witch charge to be effective, in ticks
+	#Range: 20 ~ 10000
+	witchChargeMinDuration = 200
+	#Max percentage of max health a damage can hurt wearer of Ring of Life
+	#Range: 0.0 ~ 1.0
+	ringOfLifeMaxDamage = 0.9
+	#Time in ticks of Soul Flame to inflict
+	#Range: 1 ~ 10000
+	flameThornTime = 100
+	#Radius in blocks for Ring of Reflection to work
+	#Range: 1 ~ 256
+	ringOfReflectionRadius = 16
+	#Factor of effect duration for witch wand, to make up for splash decay
+	#Range: 1 ~ 100
+	witchWandFactor = 4
+	#Factor of maximum durability to cost for ring of corrosion
+	#Range: 0.0 ~ 1.0
+	ringOfCorrosionFactor = 0.2
+	#Penalty of maximum durability to cost for ring of corrosion
+	#Range: 0.0 ~ 1.0
+	ringOfCorrosionPenalty = 0.1
+	#Percentage of health to heal every second
+	#Range: 0.0 ~ 1.0
+	ringOfHealingRate = 0.05
+	#Number of level to add when using Curse of Envy
+	#Range: 0 ~ 1000
+	envyExtraLevel = 50
+	#Number of level to add when using Curse of Greed
+	#Range: 0 ~ 1000
+	greedExtraLevel = 50
+	#Number of level to add when using Curse of Lust
+	#Range: 0 ~ 1000
+	lustExtraLevel = 50
+	#Number of level to add when using Curse of Wrath
+	#Range: 0 ~ 1000
+	wrathExtraLevel = 50
+	#Hostility loot drop factor when using Curse of Greed
+	#Range: 1.0 ~ 10.0
+	greedDropFactor = 2.0
+	#Trait item drop rate per rank when using Curse of Envy
+	#Range: 0.0 ~ 1.0
+	envyDropRate = 0.02
+	#Bottle of Curse drop rate per level when using Curse of Gluttony
+	#Range: 0.0 ~ 1.0
+	gluttonyBottleDropRate = 0.02
+	#Damage bonus per level difference when using Curse of Wrath
+	#Range: 0.0 ~ 1.0
+	wrathDamageBonus = 0.05
+	#Damage bonus per level when using Curse of Pride
+	#Range: 0.0 ~ 1.0
+	prideDamageBonus = 0.02
+	#Health boost per level in percentage when using Curse of Pride
+	#Range: 0.0 ~ 1.0
+	prideHealthBonus = 0.02
+	#Trait cost multiplier when using Curse of Pride
+	#Range: 0.01 ~ 1.0
+	prideTraitFactor = 0.5
+	#Number of level to add when using Abrahadabra
+	#Range: 0 ~ 1000
+	abrahadabraExtraLevel = 100
+	#Number of level to add when using Greed of Nidhoggur
+	#Range: 0 ~ 1000
+	nidhoggurExtraLevel = 100
+	#All loot drop factor when using Greed of Nidhoggur
+	#Range: 0.0 ~ 10.0
+	nidhoggurDropFactor = 0.01
+	#Cap drop at item max stack size
+	nidhoggurCapAtItemMaxStack = false
+	#When using book of reprint to copy books, drop extra on player and does not allow overstacking
+	bookOfReprintSpread = false
+	#Insulator Enchantment factor for reducing pushing
+	#Range: 0.0 ~ 1.0
+	insulatorFactor = 0.8
+
+[traits]
+	#Health bonus for Tank trait per level
+	#Range: 0.0 ~ 1000.0
+	tankHealth = 0.5
+	#Armor bonus for Tank trait per level
+	#Range: 0.0 ~ 1000.0
+	tankArmor = 10.0
+	#Toughness bonus for Tank trait per level
+	#Range: 0.0 ~ 1000.0
+	tankTough = 4.0
+	#Speed bonus for Speedy trait per level
+	#Range: 0.0 ~ 1000.0
+	speedy = 0.2
+	#Regen rate for Regeneration trait per second per level
+	#Range: 0.0 ~ 1000.0
+	regen = 0.02
+	#Damage factor for Adaptive. Higher means less reduction
+	#Range: 0.0 ~ 1000.0
+	adaptFactor = 0.5
+	#Reflect factor per level for Reflect. 0.5 means +50% extra damage
+	#Range: 0.0 ~ 1000.0
+	reflectFactor = 0.3
+	#Duration in ticks for enchantments to be disabled per level for Dispell
+	#Range: 1 ~ 60000
+	dispellTime = 200
+	#Duration in seconds to set target on fire by Fiery
+	#Range: 0 ~ 3000
+	fieryTime = 5
+	#Duration in ticks for Weakness
+	#Range: 0 ~ 3000
+	weakTime = 200
+	#Duration in ticks for Slowness
+	#Range: 0 ~ 3000
+	slowTime = 200
+	#Duration in ticks for Poison
+	#Range: 0 ~ 3000
+	poisonTime = 200
+	#Duration in ticks for Wither
+	#Range: 0 ~ 3000
+	witherTime = 200
+	#Duration in ticks for Levitation
+	#Range: 0 ~ 3000
+	levitationTime = 200
+	#Duration in ticks for Blindness
+	#Range: 0 ~ 3000
+	blindTime = 200
+	#Duration in ticks for Nausea
+	#Range: 0 ~ 3000
+	confusionTime = 200
+	#Duration in ticks for Soul Burner
+	#Range: 0 ~ 3000
+	soulB

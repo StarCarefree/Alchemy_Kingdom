@@ -1,0 +1,22 @@
+# Blender 4.0.0 MTL File: 'None'
+# www.blender.org
+
+newmtl m_13a7ec23-472c-ab7c-f739-82fb41666d79.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd texture.png
+
+newmtl m_730d218b-aa9c-3a70-5b69-fd282613d3d7
+Ns 302.333832
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd texture.png
+map_d texture.png

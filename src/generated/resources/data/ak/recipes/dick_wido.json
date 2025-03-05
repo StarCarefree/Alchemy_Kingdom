@@ -1,0 +1,48 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "ak:dick_wido",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 500,
+        "name": "ak:yataghans",
+        "proud_soul": 2700,
+        "refine": 15
+      }
+    },
+    "B": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "C": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 500,
+        "name": "slashblade:tagayasan",
+        "proud_soul": 6000,
+        "refine": 15
+      }
+    },
+    "D": {
+      "item": "slashblade:proudsoul_ingot"
+    },
+    "E": {
+      "item": "minecraft:obsidian"
+    },
+    "F": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "BDE",
+    "FED"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

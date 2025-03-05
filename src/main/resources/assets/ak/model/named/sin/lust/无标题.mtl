@@ -1,0 +1,32 @@
+# Blender 4.0.0 MTL File: 'None'
+# www.blender.org
+
+newmtl m_13a7ec23-472c-ab7c-f739-82fb41666d79.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/77623/Desktop/dingz/定制/强欲/texture.png
+
+newmtl m_2374e3f3-e619-c9c6-91ce-4a33647ea8c8
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/77623/Desktop/dingz/定制/texture.png
+map_d C:/Users/77623/Desktop/dingz/定制/texture.png
+
+newmtl m_730d218b-aa9c-3a70-5b69-fd282613d3d7
+Ns 302.333832
+Ka 0.577039 0.577039 0.577039
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/77623/Desktop/dingz/定制/强欲/texture.png
+map_d C:/Users/77623/Desktop/dingz/定制/强欲/texture.png

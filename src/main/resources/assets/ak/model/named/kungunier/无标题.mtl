@@ -1,0 +1,32 @@
+# Blender 4.0.0 MTL File: 'None'
+# www.blender.org
+
+newmtl m_13a7ec23-472c-ab7c-f739-82fb41666d79.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/77623/Desktop/新建文件夹 (2)/texture.png
+
+newmtl m_7734c49f-3494-0b9a-3883-81e79925b5b5
+Ns 285.950195
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/77623/Desktop/新建文件夹 (2)/texture.png
+map_d C:/Users/77623/Desktop/新建文件夹 (2)/texture.png
+
+newmtl 材质
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd C:/Users/77623/Desktop/新建文件夹 (2)/texture.png
+map_d C:/Users/77623/Desktop/新建文件夹 (2)/texture.png
