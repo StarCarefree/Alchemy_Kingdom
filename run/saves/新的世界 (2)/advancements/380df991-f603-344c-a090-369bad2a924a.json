@@ -696,5 +696,41 @@
     },
     "done": true
   },
+  "ak:recipes/combat/arrogant": {
+    "criteria": {
+      "has_slashblade": "2025-03-06 13:02:09 +0800"
+    },
+    "done": true
+  },
+  "ak:recipes/combat/greedy": {
+    "criteria": {
+      "has_slashblade": "2025-03-06 13:02:09 +0800"
+    },
+    "done": true
+  },
+  "ak:recipes/combat/lust": {
+    "criteria": {
+      "has_slashblade": "2025-03-06 13:02:09 +0800"
+    },
+    "done": true
+  },
+  "ak:recipes/combat/tai_ti": {
+    "criteria": {
+      "has_slashblade": "2025-03-06 13:02:09 +0800"
+    },
+    "done": true
+  },
+  "ak:recipes/combat/lazy": {
+    "criteria": {
+      "has_slashblade": "2025-03-06 13:02:09 +0800"
+    },
+    "done": true
+  },
+  "ak:recipes/combat/jealous": {
+    "criteria": {
+      "has_slashblade": "2025-03-06 13:02:09 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
