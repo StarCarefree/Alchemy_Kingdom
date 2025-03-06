@@ -36,7 +36,7 @@ public class DragonRender<T extends EntityAbstractSummonedSword> extends EntityR
     public void render(T entity, float entityYaw, float partialTicks, PoseStack matrixStack, MultiBufferSource bufferIn, int packedLightIn) {
 
         try (MSAutoCloser ignored = MSAutoCloser.pushMatrix(matrixStack)) {
-            float lifetime = 30;
+            float lifetime = 40;
             double deathTime = lifetime;
             double baseAlpha = (Math.min(deathTime, Math.max(0, (lifetime - (entity.tickCount))))
                     / deathTime);

@@ -38,6 +38,8 @@ public class AKEntiteRegristrys {
     public static EntityType<Ruins> RuinsS;
     public static final ResourceLocation DragonLOC = new ResourceLocation(MODID, classToString(DragonEntity.class));
     public static EntityType<DragonEntity> DragonS;
+    public static final ResourceLocation EntitySwordLOC = new ResourceLocation(MODID, classToString(EntitySword.class));
+    public static EntityType<EntitySword> EntitySwordS;
     public static void register(RegisterEvent event){
         event.register(ForgeRegistries.Keys.ENTITY_TYPES, helper -> {
             {
@@ -152,6 +154,17 @@ public class AKEntiteRegristrys {
                         .setUpdateInterval(20).setCustomClientFactory(DragonEntity::createInstance)
                         .build(DragonLOC.toString());
                 helper.register(DragonLOC, entity);
+            }
+        });
+        event.register(ForgeRegistries.Keys.ENTITY_TYPES, helper -> {
+            {
+                EntityType<EntitySword> entity = EntitySwordS = EntityType.Builder
+                        .of(EntitySword::new, MobCategory.MISC)
+                        .sized(0.9F, 0.9F)
+                        .setTrackingRange(4)
+                        .setUpdateInterval(20).setCustomClientFactory(EntitySword::createInstance)
+                        .build(EntitySwordLOC.toString());
+                helper.register(EntitySwordLOC, entity);
             }
         });
     }

@@ -20,13 +20,14 @@ public class AKClient {
 
     @SubscribeEvent
     public static void registerEntityRenderers(EntityRenderersEvent.RegisterRenderers event) {
-        event.registerEntityRenderer(AKEntiteRegristrys.FireDrive, DriveRenderer::new);
+        event.registerEntityRenderer(AKEntiteRegristrys.FireDrive, FireDriveRender::new);
         event.registerEntityRenderer(AKEntiteRegristrys.HealSlash, SlashEffectRenderer::new);
         event.registerEntityRenderer(AKEntiteRegristrys.Kungunier, KungunierRender::new);
         event.registerEntityRenderer(AKEntiteRegristrys.cwee, CrazyWindyEyesRender::new);
         event.registerEntityRenderer(AKEntiteRegristrys.SD, NoneMoonRenderer::new);
         event.registerEntityRenderer(AKEntiteRegristrys.LC, CrazyWindyEyesRender::new);
         event.registerEntityRenderer(AKEntiteRegristrys.DragonS, DragonRender::new);
+        event.registerEntityRenderer(AKEntiteRegristrys.EntitySwordS, DragonRender::new);
         event.registerEntityRenderer(AKEntiteRegristrys.TheEmperorofIceS, CrazyWindyEyesRender::new);
         event.registerEntityRenderer(AKEntiteRegristrys.EntityZenith12thsword, SummonedSwordRenderer::new);
     }

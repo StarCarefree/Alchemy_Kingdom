@@ -1,13 +1,16 @@
 package com.dinzeer.ak.sa;
 
 import com.dinzeer.ak.entity.DragonEntity;
+import com.dinzeer.ak.entity.EntitySword;
 import com.dinzeer.ak.entity.KungunierEntity;
 import com.dinzeer.ak.regsitry.AKEntiteRegristrys;
 import mods.flammpfeil.slashblade.capability.concentrationrank.ConcentrationRankCapabilityProvider;
 import mods.flammpfeil.slashblade.util.KnockBacks;
 import mods.flammpfeil.slashblade.util.VectorHelper;
+import net.minecraft.sounds.SoundEvents;
 import net.minecraft.util.Mth;
 import net.minecraft.world.entity.LivingEntity;
+import net.minecraft.world.level.Level;
 import net.minecraft.world.phys.Vec3;
 
 public class Dragon {
@@ -35,7 +38,7 @@ public class Dragon {
                 .add(VectorHelper.getVectorForRotation(0, playerIn.getViewYRot(0) + 90).scale(centerOffset.z))
                 .add(playerIn.getLookAngle().scale(centerOffset.z));
         {
-
+            Level worldIn = playerIn.level();
             DragonEntity drive = new DragonEntity(AKEntiteRegristrys.DragonS, playerIn.level());
 
             playerIn.level().addFreshEntity(drive);
@@ -51,7 +54,7 @@ public class Dragon {
             drive.setRotationRoll(roll);
 
 
-            drive.setColor(colorCode);
+            drive.setColor(0);
             drive.setIsCritical(critical);
             drive.setKnockBack(knockback);
             drive.setLifetime(lifetime);
@@ -61,7 +64,30 @@ public class Dragon {
                         .ifPresent(rank -> drive.setRank(rank.getRankLevel(playerIn.level().getGameTime())));
 
 
+            if (count==2){
+                EntitySword ss = new EntitySword(AKEntiteRegristrys.EntitySwordS, worldIn);
 
+                worldIn.addFreshEntity(ss);
+
+                ss.setIsCritical(false);
+                ss.setOwner(playerIn);
+
+                ss.setColor(colorCode);
+
+
+                ss.setRoll(0);
+                ss.setDamage(0);
+                // force riding
+                ss.startRiding(playerIn, true);
+                ss.setDelay(20 );
+                double xOffset = 0;
+                double yOffset = 3;
+                double zOffset = 0;
+                ss.setPos(playerIn.position().add(xOffset, yOffset, zOffset));
+
+                playerIn.playSound(SoundEvents.CHORUS_FRUIT_TELEPORT, 0.2F, 1.45F);
+
+            }
 
 
         }
