@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: ak
+Specification-Vendor: dinzeer
+Specification-Version: 1
+Implementation-Title: alchemykingdom
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: dinzeer
+Implementation-Timestamp: 2025-03-06T12:54:29+0800
+MixinConfigs: ak.mixins.json
+

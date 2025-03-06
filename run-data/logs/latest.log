@@ -1,85 +1,85 @@
-[053月2025 22:35:35.779] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\30852\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.1.47, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, ak, --all, --output, D:\Datas\minecraftmod\AlchemyKingdom\src\generated\resources, --existing, D:\Datas\minecraftmod\AlchemyKingdom\src\main\resources, --mixin.config, ak.mixins.json]
-[053月2025 22:35:35.785] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.10 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
-[053月2025 22:35:35.875] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
-[053月2025 22:35:35.923] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/30852/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
-[053月2025 22:35:36.217] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.1.47\57b4103e32ac0f74b33e704bfe2b9df1c6200edf\javafmllanguage-1.20.1-47.1.47.jar is missing mods.toml file
-[053月2025 22:35:36.224] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.1.47\5f3513af8ed4fcab2417c15251cf201d688533a6\lowcodelanguage-1.20.1-47.1.47.jar is missing mods.toml file
-[053月2025 22:35:36.230] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.1.47\ebc707d73d74451493fb5b5252dc6cf6b1bf1795\mclanguage-1.20.1-47.1.47.jar is missing mods.toml file
-[053月2025 22:35:36.235] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.1.47\62b2f9c443dd74c21edf523fd3abfbac16bddacb\fmlcore-1.20.1-47.1.47.jar is missing mods.toml file
-[053月2025 22:35:36.880] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[053月2025 22:35:39.430] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[053月2025 22:35:39.433] [main/ERROR] [mixin/]: Mixin config emi.mixins.json does not specify "minVersion" property
-[053月2025 22:35:39.436] [main/ERROR] [mixin/]: Mixin config emi-forge.mixins.json does not specify "minVersion" property
-[053月2025 22:35:39.478] [main/ERROR] [mixin/]: Mixin config emi_loot.mixins.json does not specify "minVersion" property
-[053月2025 22:35:39.498] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\30852\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, ak, --all, --output, D:\Datas\minecraftmod\AlchemyKingdom\src\generated\resources, --existing, D:\Datas\minecraftmod\AlchemyKingdom\src\main\resources]
-[053月2025 22:35:39.665] [main/WARN] [mixin/]: Reference map 'ak.refmap.json' for ak.mixins.json could not be read. If this is a development environment you can ignore this message
-[053月2025 22:35:40.078] [main/INFO] [mixin/]: Remapping refMap emi-xplat-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.079] [main/WARN] [mixin/]: Reference map 'emi-forge-refmap.json' for emi-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[053月2025 22:35:40.084] [main/INFO] [mixin/]: Remapping refMap moonlight-common-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.085] [main/INFO] [mixin/]: Remapping refMap moonlight-forge-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.086] [main/INFO] [mixin/]: Remapping refMap l2tabs.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.087] [main/INFO] [mixin/]: Remapping refMap jade.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.088] [main/INFO] [mixin/]: Remapping refMap slashblade.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.089] [main/INFO] [mixin/]: Remapping refMap l2complements.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.092] [main/INFO] [mixin/]: Remapping refMap touhou_little_maid.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.094] [main/INFO] [mixin/]: Remapping refMap curios.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.095] [main/INFO] [mixin/]: Remapping refMap patchouli.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.101] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.104] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.106] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.109] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.111] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.114] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.118] [main/INFO] [mixin/]: Remapping refMap sodiumCompatibility-oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.122] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.127] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.131] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.136] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.137] [main/INFO] [mixin/]: Remapping refMap placebo.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.138] [main/INFO] [mixin/]: Remapping refMap citadel.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.139] [main/INFO] [mixin/]: Remapping refMap emi_loot-xplat-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.140] [main/INFO] [mixin/]: Remapping refMap l2hostility.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.141] [main/INFO] [mixin/]: Remapping refMap l2screentracker.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.141] [main/INFO] [mixin/]: Remapping refMap iceandfire.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.142] [main/INFO] [mixin/]: Remapping refMap l2library.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.143] [main/INFO] [mixin/]: Remapping refMap l2damagetracker.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.144] [main/INFO] [mixin/]: Remapping refMap dummmmmmy-common-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:40.165] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 78 options available, 3 override(s) found
-[053月2025 22:35:40.170] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Searching for graphics cards...
-[053月2025 22:35:40.710] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=INTEL, name=Intel(R) Iris(R) Xe Graphics, version=DriverVersion=32.0.101.5542]
-[053月2025 22:35:40.731] [main/INFO] [mixin/]: Remapping refMap embeddium-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
-[053月2025 22:35:41.326] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[053月2025 22:35:41.355] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[053月2025 22:35:42.689] [main/WARN] [mixin/]: Error loading class: mekanism/client/render/entity/RenderFlame (java.lang.ClassNotFoundException: mekanism.client.render.entity.RenderFlame)
-[053月2025 22:35:42.691] [main/WARN] [mixin/]: Error loading class: mekanism/client/render/armor/MekaSuitArmor (java.lang.ClassNotFoundException: mekanism.client.render.armor.MekaSuitArmor)
-[053月2025 22:35:43.085] [main/WARN] [mixin/]: Error loading class: software/bernie/geckolib/renderer/GeoEntityRenderer (java.lang.ClassNotFoundException: software.bernie.geckolib.renderer.GeoEntityRenderer)
-[053月2025 22:35:43.086] [main/WARN] [mixin/]: Error loading class: software/bernie/geckolib/renderer/GeoReplacedEntityRenderer (java.lang.ClassNotFoundException: software.bernie.geckolib.renderer.GeoReplacedEntityRenderer)
-[053月2025 22:35:43.320] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
-[053月2025 22:35:43.321] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
-[053月2025 22:35:43.321] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
-[053月2025 22:35:43.324] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
-[053月2025 22:35:43.324] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.gui.font.FontSetMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
-[053月2025 22:35:43.325] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[053月2025 22:35:43.325] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.remove_streams.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[053月2025 22:35:43.325] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.remove_streams.HierarchicalModelMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[053月2025 22:35:43.326] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.fast_render.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[053月2025 22:35:43.326] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.fast_render.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[053月2025 22:35:43.326] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[053月2025 22:35:43.898] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[053月2025 22:35:44.044] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [ak]
-[053月2025 22:35:46.183] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[053月2025 22:35:46.184] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[053月2025 22:35:46.293] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[053月2025 22:35:46.294] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[053月2025 22:35:49.824] [modloading-worker-0/INFO] [In-game NBTEdit Reborn/]: Loading NBTEdit ver: 1.20.1-4.4.1-release
-[053月2025 22:35:49.838] [modloading-worker-0/INFO] [In-game NBTEdit Reborn/]: Register networking.
-[053月2025 22:35:50.221] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[053月2025 22:35:50.719] [modloading-worker-0/INFO] [In-game NBTEdit Reborn/]: NBTEdit loaded!
-[053月2025 22:35:50.738] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.1.47, for MC 1.20.1 with MCP 20230612.114412
-[053月2025 22:35:50.746] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.1.47 Initialized
-[053月2025 22:35:51.585] [modloading-worker-0/ERROR] [Embeddium-MixinTaintDetector/]: Mod mixin into Embeddium internals detected. This instance is now tainted. The Embeddium team does not provide any guarantee of support for issues encountered while such mods are installed.
-[053月2025 22:35:51.586] [modloading-worker-0/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumGameOptions, which may cause instability.
-[053月2025 22:35:51.626] [modloading-worker-0/ERROR] [Embeddium/]: Failed to update fingerprint
+[053月2025 23:16:33.050] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\30852\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.1.47, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, ak, --all, --output, D:\Datas\minecraftmod\AlchemyKingdom\src\generated\resources, --existing, D:\Datas\minecraftmod\AlchemyKingdom\src\main\resources, --mixin.config, ak.mixins.json]
+[053月2025 23:16:33.053] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.10 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[053月2025 23:16:33.132] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[053月2025 23:16:33.173] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/30852/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[053月2025 23:16:33.435] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.1.47\57b4103e32ac0f74b33e704bfe2b9df1c6200edf\javafmllanguage-1.20.1-47.1.47.jar is missing mods.toml file
+[053月2025 23:16:33.440] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.1.47\5f3513af8ed4fcab2417c15251cf201d688533a6\lowcodelanguage-1.20.1-47.1.47.jar is missing mods.toml file
+[053月2025 23:16:33.445] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.1.47\ebc707d73d74451493fb5b5252dc6cf6b1bf1795\mclanguage-1.20.1-47.1.47.jar is missing mods.toml file
+[053月2025 23:16:33.449] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.1.47\62b2f9c443dd74c21edf523fd3abfbac16bddacb\fmlcore-1.20.1-47.1.47.jar is missing mods.toml file
+[053月2025 23:16:33.980] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[053月2025 23:16:35.674] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[053月2025 23:16:35.677] [main/ERROR] [mixin/]: Mixin config emi.mixins.json does not specify "minVersion" property
+[053月2025 23:16:35.678] [main/ERROR] [mixin/]: Mixin config emi-forge.mixins.json does not specify "minVersion" property
+[053月2025 23:16:35.707] [main/ERROR] [mixin/]: Mixin config emi_loot.mixins.json does not specify "minVersion" property
+[053月2025 23:16:35.720] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\30852\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, ak, --all, --output, D:\Datas\minecraftmod\AlchemyKingdom\src\generated\resources, --existing, D:\Datas\minecraftmod\AlchemyKingdom\src\main\resources]
+[053月2025 23:16:35.824] [main/WARN] [mixin/]: Reference map 'ak.refmap.json' for ak.mixins.json could not be read. If this is a development environment you can ignore this message
+[053月2025 23:16:36.034] [main/INFO] [mixin/]: Remapping refMap emi-xplat-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.035] [main/WARN] [mixin/]: Reference map 'emi-forge-refmap.json' for emi-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[053月2025 23:16:36.037] [main/INFO] [mixin/]: Remapping refMap moonlight-common-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.038] [main/INFO] [mixin/]: Remapping refMap moonlight-forge-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.039] [main/INFO] [mixin/]: Remapping refMap l2tabs.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.039] [main/INFO] [mixin/]: Remapping refMap jade.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.039] [main/INFO] [mixin/]: Remapping refMap slashblade.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.040] [main/INFO] [mixin/]: Remapping refMap l2complements.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.040] [main/INFO] [mixin/]: Remapping refMap touhou_little_maid.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.042] [main/INFO] [mixin/]: Remapping refMap curios.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.043] [main/INFO] [mixin/]: Remapping refMap patchouli.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.047] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.050] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.051] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.052] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.053] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.055] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.059] [main/INFO] [mixin/]: Remapping refMap sodiumCompatibility-oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.062] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.065] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.068] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.071] [main/INFO] [mixin/]: Remapping refMap oculus-mixins-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.071] [main/INFO] [mixin/]: Remapping refMap placebo.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.072] [main/INFO] [mixin/]: Remapping refMap citadel.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.073] [main/INFO] [mixin/]: Remapping refMap emi_loot-xplat-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.073] [main/INFO] [mixin/]: Remapping refMap l2hostility.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.074] [main/INFO] [mixin/]: Remapping refMap l2screentracker.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.074] [main/INFO] [mixin/]: Remapping refMap iceandfire.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.074] [main/INFO] [mixin/]: Remapping refMap l2library.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.075] [main/INFO] [mixin/]: Remapping refMap l2damagetracker.refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.075] [main/INFO] [mixin/]: Remapping refMap dummmmmmy-common-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.086] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 78 options available, 3 override(s) found
+[053月2025 23:16:36.089] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Searching for graphics cards...
+[053月2025 23:16:36.418] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=INTEL, name=Intel(R) Iris(R) Xe Graphics, version=DriverVersion=32.0.101.5542]
+[053月2025 23:16:36.436] [main/INFO] [mixin/]: Remapping refMap embeddium-refmap.json using D:\Datas\minecraftmod\AlchemyKingdom\build\createSrgToMcp\output.srg
+[053月2025 23:16:36.757] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[053月2025 23:16:36.774] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[053月2025 23:16:37.964] [main/WARN] [mixin/]: Error loading class: mekanism/client/render/entity/RenderFlame (java.lang.ClassNotFoundException: mekanism.client.render.entity.RenderFlame)
+[053月2025 23:16:37.966] [main/WARN] [mixin/]: Error loading class: mekanism/client/render/armor/MekaSuitArmor (java.lang.ClassNotFoundException: mekanism.client.render.armor.MekaSuitArmor)
+[053月2025 23:16:38.322] [main/WARN] [mixin/]: Error loading class: software/bernie/geckolib/renderer/GeoEntityRenderer (java.lang.ClassNotFoundException: software.bernie.geckolib.renderer.GeoEntityRenderer)
+[053月2025 23:16:38.324] [main/WARN] [mixin/]: Error loading class: software/bernie/geckolib/renderer/GeoReplacedEntityRenderer (java.lang.ClassNotFoundException: software.bernie.geckolib.renderer.GeoReplacedEntityRenderer)
+[053月2025 23:16:38.490] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[053月2025 23:16:38.491] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[053月2025 23:16:38.491] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[053月2025 23:16:38.494] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[053月2025 23:16:38.495] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.gui.font.FontSetMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[053月2025 23:16:38.495] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[053月2025 23:16:38.496] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.remove_streams.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[053月2025 23:16:38.496] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.remove_streams.HierarchicalModelMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[053月2025 23:16:38.496] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.fast_render.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[053月2025 23:16:38.497] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.fast_render.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[053月2025 23:16:38.497] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[053月2025 23:16:38.897] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[053月2025 23:16:39.034] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [ak]
+[053月2025 23:16:41.226] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[053月2025 23:16:41.227] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[053月2025 23:16:41.349] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[053月2025 23:16:41.350] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[053月2025 23:16:44.348] [modloading-worker-0/INFO] [In-game NBTEdit Reborn/]: Loading NBTEdit ver: 1.20.1-4.4.1-release
+[053月2025 23:16:44.372] [modloading-worker-0/INFO] [In-game NBTEdit Reborn/]: Register networking.
+[053月2025 23:16:44.802] [modloading-worker-0/INFO] [In-game NBTEdit Reborn/]: NBTEdit loaded!
+[053月2025 23:16:44.830] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[053月2025 23:16:44.922] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.1.47, for MC 1.20.1 with MCP 20230612.114412
+[053月2025 23:16:44.925] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.1.47 Initialized
+[053月2025 23:16:46.213] [modloading-worker-0/ERROR] [Embeddium-MixinTaintDetector/]: Mod mixin into Embeddium internals detected. This instance is now tainted. The Embeddium team does not provide any guarantee of support for issues encountered while such mods are installed.
+[053月2025 23:16:46.214] [modloading-worker-0/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumGameOptions, which may cause instability.
+[053月2025 23:16:46.259] [modloading-worker-0/ERROR] [Embeddium/]: Failed to update fingerprint
 java.lang.NullPointerException: Cannot invoke "net.minecraft.client.Minecraft.getUser()" because the return value of "net.minecraft.client.Minecraft.getInstance()" is null
 	at me.jellysquid.mods.sodium.client.data.fingerprint.FingerprintMeasure.create(FingerprintMeasure.java:19) ~[embeddium-908741-5681725_mapped_official_1.20.1.jar%23220!/:?]
 	at me.jellysquid.mods.sodium.client.SodiumClientMod.updateFingerprint(SodiumClientMod.java:108) ~[embeddium-908741-5681725_mapped_official_1.20.1.jar%23220!/:?]
@@ -98,18 +98,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.client.Minecraft.ge
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[053月2025 22:35:51.654] [modloading-worker-0/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI, which may cause instability.
-[053月2025 22:35:51.894] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
-[053月2025 22:35:51.913] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 11.79 ms
-[053月2025 22:35:52.662] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config :emi_loot_config in 996ms
-[053月2025 22:35:53.798] [main/INFO] [Moonlight/]: Initialized block sets in 21ms
-[053月2025 22:35:54.910] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/30852/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.1.47_mapped_official_1.20.1/forge-1.20.1-47.1.47_mapped_official_1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
-[053月2025 22:35:54.911] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/30852/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.1.47_mapped_official_1.20.1/forge-1.20.1-47.1.47_mapped_official_1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
-[053月2025 22:35:55.334] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registrate Provider for ak [Recipes, Advancements, Loot Tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), generic_server_provider, Blockstates, Item models, Lang (en_us/en_ud), generic_client_provider, Tags (enchantments), Tags (attributes), Tags (mob_effects), Tags (traits), Patchouli Provider]
-[053月2025 22:35:55.379] [main/INFO] [net.minecraft.data.DataGenerator/]: Registrate Provider for ak [Recipes, Advancements, Loot Tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), generic_server_provider, Blockstates, Item models, Lang (en_us/en_ud), generic_client_provider, Tags (enchantments), Tags (attributes), Tags (mob_effects), Tags (traits), Patchouli Provider] finished after 44 ms
-[053月2025 22:35:55.379] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
-[053月2025 22:35:55.500] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 121 ms
-[053月2025 22:35:55.501] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registries
-[053月2025 22:35:55.531] [main/INFO] [net.minecraft.data.DataGenerator/]: Registries finished after 30 ms
-[053月2025 22:35:55.531] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 198 ms
-[053月2025 22:35:55.540] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 54, old count: 54, new count: 55, removed stale: 0, written: 0
+[053月2025 23:16:46.323] [modloading-worker-0/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI, which may cause instability.
+[053月2025 23:16:46.497] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[053月2025 23:16:46.509] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 9.150 ms
+[053月2025 23:16:47.055] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config :emi_loot_config in 634ms
+[053月2025 23:16:47.983] [main/INFO] [Moonlight/]: Initialized block sets in 9ms
+[053月2025 23:16:48.769] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/30852/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.1.47_mapped_official_1.20.1/forge-1.20.1-47.1.47_mapped_official_1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[053月2025 23:16:48.770] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/30852/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.1.47_mapped_official_1.20.1/forge-1.20.1-47.1.47_mapped_official_1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[053月2025 23:16:49.036] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registrate Provider for ak [Recipes, Advancements, Loot Tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), generic_server_provider, Blockstates, Item models, Lang (en_us/en_ud), generic_client_provider, Tags (attributes), Tags (enchantments), Tags (mob_effects), Tags (traits), Patchouli Provider]
+[053月2025 23:16:49.060] [main/INFO] [net.minecraft.data.DataGenerator/]: Registrate Provider for ak [Recipes, Advancements, Loot Tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), generic_server_provider, Blockstates, Item models, Lang (en_us/en_ud), generic_client_provider, Tags (attributes), Tags (enchantments), Tags (mob_effects), Tags (traits), Patchouli Provider] finished after 23 ms
+[053月2025 23:16:49.061] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[053月2025 23:16:49.191] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 129 ms
+[053月2025 23:16:49.191] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registries
+[053月2025 23:16:49.200] [main/INFO] [net.minecraft.data.DataGenerator/]: Registries finished after 9 ms
+[053月2025 23:16:49.200] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 164 ms
+[053月2025 23:16:49.211] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 55, old count: 48, new count: 55, removed stale: 1, written: 6

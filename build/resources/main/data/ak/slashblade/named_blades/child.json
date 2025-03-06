@@ -1,0 +1,35 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:power",
+      "lvl": 7
+    },
+    {
+      "id": "minecraft:looting",
+      "lvl": 2
+    },
+    {
+      "id": "minecraft:knockback",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 3
+    }
+  ],
+  "name": "ak:child",
+  "properties": {
+    "attack_base": 28.0,
+    "max_damage": 180,
+    "slash_art": "ak:king",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "ak:model/named/child/sange.obj",
+    "summon_sword_color": 16777215,
+    "texture": "ak:model/named/child/blood.png"
+  }
+}

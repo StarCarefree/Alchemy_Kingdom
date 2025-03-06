@@ -1,4 +1,7 @@
 {
+  "ak.sword_type.fate": "FATE",
+  "ak.sword_type.king": "WHITE",
+  "ak.sword_type.sin": "sin",
   "effect.ak.blood_boost": "blood boost",
   "item.ak.arrogant": "arrogant",
   "item.ak.child": "child",
@@ -21,6 +24,7 @@
   "item.ak.worldtree": "Worldtree",
   "item.ak.yataghans": "yataghans",
   "itemGroup.ak.ak_items": "AK items",
+  "itemGroup.ak.ak_slashblade": "AK slashblade",
   "message.ak.talent.a": "A!",
   "message.ak.talent.b": "B!",
   "message.ak.talent.s": "S!",

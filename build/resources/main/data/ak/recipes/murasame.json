@@ -1,0 +1,51 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "ak:murasame",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 500,
+        "name": "ak:yataghans",
+        "proud_soul": 2700,
+        "refine": 15
+      }
+    },
+    "B": {
+      "item": "minecraft:magma_block"
+    },
+    "C": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "kill": 1500,
+        "name": "slashblade:muramasa",
+        "proud_soul": 6000,
+        "refine": 15
+      }
+    },
+    "D": {
+      "item": "minecraft:soul_lantern"
+    },
+    "E": {
+      "item": "slashblade:proudsoul_ingot"
+    },
+    "F": {
+      "item": "minecraft:blaze_powder"
+    },
+    "G": {
+      "item": "minecraft:fire_charge"
+    }
+  },
+  "pattern": [
+    "FBC",
+    "BDE",
+    "AEG"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

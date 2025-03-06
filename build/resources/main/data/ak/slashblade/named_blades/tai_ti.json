@@ -1,0 +1,31 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 0
+    },
+    {
+      "id": "minecraft:smite",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:thorns",
+      "lvl": 3
+    }
+  ],
+  "name": "ak:tai_ti",
+  "properties": {
+    "attack_base": 27.0,
+    "max_damage": 180,
+    "slash_art": "ak:shiva_dance",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "ak:model/named/sin/tai_ti/sange.obj",
+    "summon_sword_color": 16777215,
+    "texture": "ak:model/named/sin/tai_ti/blood.png"
+  }
+}

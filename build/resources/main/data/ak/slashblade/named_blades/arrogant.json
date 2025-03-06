@@ -1,0 +1,31 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:sweeping",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 8
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 0
+    }
+  ],
+  "name": "ak:arrogant",
+  "properties": {
+    "attack_base": 37.0,
+    "max_damage": 180,
+    "slash_art": "ak:the_wrath_of_indra",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "ak:model/named/sin/arrogant/sange.obj",
+    "summon_sword_color": 16777215,
+    "texture": "ak:model/named/sin/arrogant/blood.png"
+  }
+}

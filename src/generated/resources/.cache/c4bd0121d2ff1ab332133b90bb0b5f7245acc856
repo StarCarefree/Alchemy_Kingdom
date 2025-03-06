@@ -1,0 +1,7 @@
+// 1.20.1	2025-03-05T23:16:49.201866	Registrate Provider for ak [Recipes, Advancements, Loot Tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), generic_server_provider, Blockstates, Item models, Lang (en_us/en_ud), generic_client_provider, Tags (attributes), Tags (enchantments), Tags (mob_effects), Tags (traits), Patchouli Provider]
+137acf5eb3fe7e97ed4214dc734b0562632fe16a assets/ak/lang/en_ud.json
+b54fed594fb8bd22c9d527f5e4434da4021aed82 assets/ak/lang/en_us.json
+d0ab630a550e0393de7e1f3bdc44a2cf40763af7 assets/ak/models/item/dragon_cross.json
+4cee92d8bf03fe36a7a9e76188c447cc66b67901 assets/ak/models/item/gem.json
+91c5c89240cc625f7beb9b0440c4633dc5433937 assets/ak/models/item/unknown_secret_sauce.json
+c3739a0dcf9ab9260545c8a605dee558c37186ac assets/ak/models/item/worldtree.json

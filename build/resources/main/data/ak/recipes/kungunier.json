@@ -1,0 +1,22 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "ak:kungunier",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "ak:worldtree"
+    },
+    "B": {
+      "item": "slashblade:proudsoul_trapezohedron"
+    }
+  },
+  "pattern": [
+    " AA",
+    "BAA",
+    "AB "
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

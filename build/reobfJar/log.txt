@@ -1,0 +1,528 @@
+Java Launcher: D:\apps\javahome\JDK-17\bin\java.exe
+Arguments: '--input, D:\Datas\minecraftmod\AlchemyKingdom\build\libs\ak-1.0-SNAPSHOT.jar, --output, D:\Datas\minecraftmod\AlchemyKingdom\build\reobfJar\output.jar, --names, D:\Datas\minecraftmod\AlchemyKingdom\build\reobfJar\mappings.tsrg, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\l2hostility-909207\5645775_mapped_official_1.20.1\l2hostility-909207-5645775_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\dev\xkmc\l2library\l2library\2.4.23_mapped_official_1.20.1\l2library-2.4.23_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\dev\xkmc\l2complements\l2complements\2.4.33_mapped_official_1.20.1\l2complements-2.4.33_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\patchouli-306770\4966125_mapped_official_1.20.1\patchouli-306770-4966125_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\dev\xkmc\l2serial\l2serial\1.2.2_mapped_official_1.20.1\l2serial-1.2.2_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\dev\xkmc\l2tabs\l2tabs\0.3.3_mapped_official_1.20.1\l2tabs-0.3.3_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\dev\xkmc\l2screentracker\l2screentracker\0.1.4_mapped_official_1.20.1\l2screentracker-0.1.4_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\jei-238222\5576551_mapped_official_1.20.1\jei-238222-5576551_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\slashblade-resharped-1022428\6164820_mapped_official_1.20.1\slashblade-resharped-1022428-6164820_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\the-twilight-forest-227639\5468648_mapped_official_1.20.1\the-twilight-forest-227639-5468648_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\emi-580555\4663085_mapped_official_1.20.1\emi-580555-4663085_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\placebo-283644\5414631_mapped_official_1.20.1\placebo-283644-5414631_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\xaeros-minimap-263420\5685657_mapped_official_1.20.1\xaeros-minimap-263420-5685657_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\nbtedit-reborn-678133\4612033_mapped_official_1.20.1\nbtedit-reborn-678133-4612033_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\itemzoom-261725\5043628_mapped_official_1.20.1\itemzoom-261725-5043628_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\jade-324717\5876199_mapped_official_1.20.1\jade-324717-5876199_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\just-enough-professions-jep-417645\4587024_mapped_official_1.20.1\just-enough-professions-jep-417645-4587024_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\mmmmmmmmmmmm-225738\5737040_mapped_official_1.20.1\mmmmmmmmmmmm-225738-5737040_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\selene-499980\5938277_mapped_official_1.20.1\selene-499980-5938277_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\ice-and-fire-dragons-264231\5633453_mapped_official_1.20.1\ice-and-fire-dragons-264231-5633453_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\citadel-331936\5633260_mapped_official_1.20.1\citadel-331936-5633260_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\touhou-little-maid-355044\5739414_mapped_official_1.20.1\touhou-little-maid-355044-5739414_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\projecte-226410\4901949_mapped_official_1.20.1\projecte-226410-4901949_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\embeddium-908741\5681725_mapped_official_1.20.1\embeddium-908741-5681725_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\oculus-581495\6020952_mapped_official_1.20.1\oculus-581495-6020952_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\emi-loot-681783\6157014_mapped_official_1.20.1\emi-loot-681783-6157014_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\fzzy-config-1005914\6144527_mapped_official_1.20.1\fzzy-config-1005914-6144527_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\kotlin-for-forge-351264\5402061_mapped_official_1.20.1\kotlin-for-forge-351264-5402061_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\com\tterrag\registrate\Registrate\MC1.20-1.3.11_mapped_official_1.20.1\Registrate-MC1.20-1.3.11_mapped_official_1.20.1.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.20.1-47.1.47_mapped_official_1.20.1\forge-1.20.1-47.1.47_mapped_official_1.20.1-recomp.jar, --lib, C:\Users\30852\.gradle\caches\forge_gradle\minecraft_repo\versions\1.20.1\client-extra.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlloader\1.20.1-47.1.47\68188b4f1c30c6a14cf491c7da7f38da41bc5722\fmlloader-1.20.1-47.1.47.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarSelector\0.3.19\376cc9c8ea60720cf027c01fc033de915699801c\JarJarSelector-0.3.19.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarMetadata\0.3.19\83feaa9b770e6ac0e96ee4fc23fa89325c5fe2\JarJarMetadata-0.3.19.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\31.1-jre\60458f877d055d0c9114d9e1a2efb737b4bc282c\guava-31.1-jre.jar, --lib, C:\Users\30852\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\ca.weblite\java-objc-bridge\1.1\1227f9e0666314f9de41477e3ec277e542ed7f7b\java-objc-bridge-1.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\forgespi\7.0.1\3b4972a0cdb135853dba219be61a79b22cff1309\forgespi-7.0.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.1.5\f3da18e12c696d35a47c82cbb2cc8b5aa15e1154\mergetool-1.1.5-api.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\24.0.1\13c5c75c4206580aa4d683bffee658caae6c9f43\annotations-24.0.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.10\51e6a22c6c716beb11e244bf5b8be480f51dd6b5\securejarhandler-2.1.10.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\cpw.mods\modlauncher\10.0.9\6d9443f56f50bb85cea383686ff9c867391458b\modlauncher-10.0.9.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.openjdk.nashorn\nashorn-core\15.3\43977e804697048fc8d81d333a36c17d07a5b3dd\nashorn-core-15.3.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.5\19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0\asm-commons-9.5.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.5\64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe\asm-util-9.5.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.5\490bacc77de7cbc0be1a30bb3471072d705be4a4\asm-analysis-9.5.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.5\fd33c8b6373abaa675be407082fdfda35021254a\asm-tree-9.5.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.5\dc6ea1875f4d64fbc85e1691c95b96a3d8569c90\asm-9.5.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\accesstransformers\8.0.4\272d240aa73f42195b2a68e2ebd8b701ecf41f63\accesstransformers-8.0.4.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.antlr\antlr4\4.9.1\e92af8ab33e428461927b484e90bb155a4f3a052\antlr4-4.9.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.antlr\antlr4-runtime\4.9.1\428664f05d2b7f7b7610204b5aa7c1763f62011a\antlr4-runtime-4.9.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.1.47\62b2f9c443dd74c21edf523fd3abfbac16bddacb\fmlcore-1.20.1-47.1.47.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\eventbus\6.0.5\699143dd438431d06b57416944f7cedbe52e1475\eventbus-6.0.5.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\coremods\5.0.1\386b00279628b105b2d507539c46e134e96f6237\coremods-5.0.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\unsafe\0.2.0\54d7a0a5e8fdb71b973025caa46f341ae5904f39\unsafe-0.2.0.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.electronwill.night-config\toml\3.6.4\51d6cefb2b55ee55ee26b16391212fb2c7dfb4f4\toml-3.6.4.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.electronwill.night-config\core\3.6.4\510f174abbf1c947494db50ef2445683bd52c230\core-3.6.4.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.8.5\4433f50c07debefaed0553bd0068f4f48d449313\maven-artifact-3.8.5.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.jodah\typetools\0.6.3\a01aaa6ddaea9ec07ec4f209487b7a46a526283a\typetools-0.6.3.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecrell\terminalconsoleappender\1.2.0\96d02cd3b384ff015a8fef4223bcb4ccf1717c95\terminalconsoleappender-1.2.0.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.jline\jline-reader\3.12.1\4382ab1382c7b6f379377ed5f665dc2f6e1218bc\jline-reader-3.12.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.spongepowered\mixin\0.8.5\9d1c0c3a304ae6697ecd477218fa61b850bf57fc\mixin-0.8.5.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarFileSystems\0.3.19\2464eb7d6b9ddb9db36a82cf8a95193e5c6fe020\JarJarFileSystems-0.3.19.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlearlydisplay\1.20.1-47.1.47\b2b9a41bed58b24f27b4d7852cfaff69d675d489\fmlearlydisplay-1.20.1-47.1.47.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.1.47\57b4103e32ac0f74b33e704bfe2b9df1c6200edf\javafmllanguage-1.20.1-47.1.47.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.1.47\5f3513af8ed4fcab2417c15251cf201d688533a6\lowcodelanguage-1.20.1-47.1.47.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.1.47\ebc707d73d74451493fb5b5252dc6cf6b1bf1795\mclanguage-1.20.1-47.1.47.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.github.oshi\oshi-core\6.2.2\54f5efc19bca95d709d9a37d19ffcbba3d21c1a6\oshi-core-6.2.2.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.10\dd9b193aef96e973d5a11ab13cd17430c2e4306b\gson-2.10.jar, --lib, C:\Users\30852\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\71.1\9e7d3304c23f9ba5cb71915f7cce23231a57a445\icu4j-71.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\4.0.43\2ff9d747a77570a07a60d32ac77eb6162ad2a2d9\authlib-4.0.43.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.mojang\blocklist\1.0.10\5c685c5ffa94c4cd39496c7184c1d122e515ecef\blocklist-1.0.10.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.mojang\brigadier\1.1.8\5244ce82c3337bba4a196a3ce858bfaecc74404a\brigadier-1.1.8.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.mojang\datafixerupper\6.0.8\3ba4a30557a9b057760af4011f909ba619fc5125\datafixerupper-6.0.8.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.mojang\logging\1.1.1\832b8e6674a9b325a5175a3a6267dfaf34c85139\logging-1.1.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.mojang\patchy\2.2.10\da05971b07cbb379d002cf7eaec6a2048211fefc\patchy-2.2.10.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.17.9\3cad216e3a7f0c19b4b394388bc9ffc446f13b14\text2speech-1.17.9.jar, --lib, C:\Users\30852\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar, --lib, C:\Users\30852\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.11.0\a2503f302b11ebde7ebc3df41daebe0e4eea3689\commons-io-2.11.0.jar, --lib, C:\Users\30852\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-handler\4.1.82.Final\644041d1fa96a5d3130a29e8978630d716d76e38\netty-handler-4.1.82.Final.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec\4.1.82.Final\b77200379acb345a9ffdece1c605e591ac3e4e0a\netty-codec-4.1.82.Final.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-classes-epoll\4.1.82.Final\e7c7dd18deac93105797f30057c912651ea76521\netty-transport-classes-epoll-4.1.82.Final.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-unix-common\4.1.82.Final\3e895b35ca1b8a0eca56cacff4c2dde5d2c6abce\netty-transport-native-unix-common-4.1.82.Final.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport\4.1.82.Final\e431a218d91acb6476ccad5f5aafde50aa3945ca\netty-transport-4.1.82.Final.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-buffer\4.1.82.Final\a544270cf1ae8b8077082f5036436a9a9971ea71\netty-buffer-4.1.82.Final.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-resolver\4.1.82.Final\38f665ae8dcd29032eea31245ba7806bed2e0fa8\netty-resolver-4.1.82.Final.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-common\4.1.82.Final\22d148e85c3f5ebdacc0ce1f5aabb1d420f73f3\netty-common-4.1.82.Final.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.5.9\bb7ea75ecdb216654237830b3a96d87ad91f8cc5\fastutil-8.5.9.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna-platform\5.12.1\97406a297c852f4a41e688a176ec675f72e8329\jna-platform-5.12.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\5.12.1\b1e93a735caea94f503e95e6fe79bf9cdc1e985d\jna-5.12.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar, --lib, C:\Users\30852\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.12.0\c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e\commons-lang3-3.12.0.jar, --lib, C:\Users\30852\.m2\repository\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.19.0\3b6eeb4de4c49c0fe38a4ee27188ff5fee44d0bb\log4j-core-2.19.0.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j2-impl\2.19.0\5c04bfdd63ce9dceb2e284b81e96b6a70010ee10\log4j-slf4j2-impl-2.19.0.jar, --lib, C:\Users\30852\.m2\repository\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.joml\joml\1.10.5\22566d58af70ad3d72308bab63b8339906deb649\joml-1.10.5.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\cbac1b8d30cb4795149c1ef540f912671a8616d0\lwjgl-glfw-3.3.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\ed892f945cf7e79c8756796f32d00fa4ceaf573b\lwjgl-glfw-3.3.1-natives-windows.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\beda65ee503443e60aa196d58ed31f8d001dc22a\lwjgl-glfw-3.3.1-natives-windows-arm64.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\b997e3391d6ce8f05487e7335d95c606043884a1\lwjgl-glfw-3.3.1-natives-windows-x86.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\a817bcf213db49f710603677457567c37d53e103\lwjgl-jemalloc-3.3.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\948a89b76a16aa324b046ae9308891216ffce5f9\lwjgl-jemalloc-3.3.1-natives-windows.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\cae85c4edb219c88b6a0c26a87955ad98dc9519d\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\fb476c8ec110e1c137ad3ce8a7f7bfe6b11c6324\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\2623a6b8ae1dfcd880738656a9f0243d2e6840bd\lwjgl-openal-3.3.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\30a474d0e57193d7bc128849a3ab66bc9316fdb1\lwjgl-openal-3.3.1-natives-windows.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\40d65f1a7368a2aa47336f9cb69f5a190cf9975a\lwjgl-openal-3.3.1-natives-windows-arm64.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\888349f7b1be6fbae58bf8edfb9ef12def04c4e3\lwjgl-openal-3.3.1-natives-windows-x86.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\831a5533a21a5f4f81bbc51bb13e9899319b5411\lwjgl-opengl-3.3.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\c1807e9bd571402787d7e37e3029776ae2513bb8\lwjgl-opengl-3.3.1-natives-windows.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\527d78f1e9056aff3ed02ce93019c73c5e8f1721\lwjgl-opengl-3.3.1-natives-windows-arm64.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\deef3eb9b178ff2ff3ce893cc72ae741c3a17974\lwjgl-opengl-3.3.1-natives-windows-x86.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\b119297cf8ed01f247abe8685857f8e7fcf5980f\lwjgl-stb-3.3.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\86315914ac119efdb02dc9e8e978ade84f1702af\lwjgl-stb-3.3.1-natives-windows.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\fde63cdd2605c00636721a6c8b961e41d1f6b247\lwjgl-stb-3.3.1-natives-windows-arm64.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\a8d41f419eecb430b7c91ea2ce2c5c451cae2091\lwjgl-stb-3.3.1-natives-windows-x86.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\ff1914111ef2e3e0110ef2dabc8d8cdaad82347\lwjgl-tinyfd-3.3.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\a5d830475ec0958d9fdba1559efa99aef211e6ff\lwjgl-tinyfd-3.3.1-natives-windows.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\83a5e780df610829ff3a737822b4f931cffecd91\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\842eedd876fae354abc308c98a263f6bbc9e8a4d\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\ae58664f88e18a9bb2c77b063833ca7aaec484cb\lwjgl-3.3.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\36c37f16ab611b3aa11f3bcf80b1d509b4ce6b\lwjgl-3.3.1-natives-windows.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\f46cadcf95675908fd3a550d63d9d709cb68998\lwjgl-3.3.1-natives-windows-arm64.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\3b14f4beae9dd39791ec9e12190a9380cd8a3ce6\lwjgl-3.3.1-natives-windows-x86.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.machinezoo.noexception\noexception\1.7.1\b65330c98e38a1f915fa54a6e5eca496505e3f0a\noexception-1.7.1.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\2.0.1\f48d81adce2abf5ad3cfe463df517952749e03bc\slf4j-api-2.0.1.jar, --lib, C:\Users\30852\.m2\repository\org\codehaus\plexus\plexus-utils\3.3.0\plexus-utils-3.3.0.jar, --lib, C:\Users\30852\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.checkerframework\checker-qual\3.12.0\d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5\checker-qual-3.12.0.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.google.errorprone\error_prone_annotations\2.11.0\c5a0ace696d3f8b1c1d8cc036d8c03cc0cbe6b69\error_prone_annotations-2.11.0.jar, --lib, C:\Users\30852\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.antlr\ST4\4.3\92f2c1ad8d84abcbeead6cf7f2c53a04166293c2\ST4-4.3.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.antlr\antlr-runtime\3.5.2\cd9cd41361c155f3af0f653009dcecb08d8b4afd\antlr-runtime-3.5.2.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.abego.treelayout\org.abego.treelayout.core\1.0.3\457216e8e6578099ae63667bb1e4439235892028\org.abego.treelayout.core-1.0.3.jar, --lib, C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.glassfish\javax.json\1.0.4\3178f73569fd7a1e5ffc464e680f7a8cc784b85a\javax.json-1.0.4.jar, --disable-abstract-param'
+Classpath:
+ - C:\Users\30852\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\ForgeAutoRenamingTool\1.0.6\ForgeAutoRenamingTool-1.0.6-all.jar
+Working directory: D:\Datas\minecraftmod\AlchemyKingdom\build\reobfJar
+Main class: net.minecraftforge.fart.Main
+====================================
+Forge Auto Renaming Tool v1.0.6
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\l2hostility-909207\5645775_mapped_official_1.20.1\l2hostility-909207-5645775_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\dev\xkmc\l2library\l2library\2.4.23_mapped_official_1.20.1\l2library-2.4.23_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\dev\xkmc\l2complements\l2complements\2.4.33_mapped_official_1.20.1\l2complements-2.4.33_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\patchouli-306770\4966125_mapped_official_1.20.1\patchouli-306770-4966125_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\dev\xkmc\l2serial\l2serial\1.2.2_mapped_official_1.20.1\l2serial-1.2.2_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\dev\xkmc\l2tabs\l2tabs\0.3.3_mapped_official_1.20.1\l2tabs-0.3.3_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\dev\xkmc\l2screentracker\l2screentracker\0.1.4_mapped_official_1.20.1\l2screentracker-0.1.4_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\jei-238222\5576551_mapped_official_1.20.1\jei-238222-5576551_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\slashblade-resharped-1022428\6164820_mapped_official_1.20.1\slashblade-resharped-1022428-6164820_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\the-twilight-forest-227639\5468648_mapped_official_1.20.1\the-twilight-forest-227639-5468648_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\emi-580555\4663085_mapped_official_1.20.1\emi-580555-4663085_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\placebo-283644\5414631_mapped_official_1.20.1\placebo-283644-5414631_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\xaeros-minimap-263420\5685657_mapped_official_1.20.1\xaeros-minimap-263420-5685657_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\nbtedit-reborn-678133\4612033_mapped_official_1.20.1\nbtedit-reborn-678133-4612033_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\itemzoom-261725\5043628_mapped_official_1.20.1\itemzoom-261725-5043628_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\jade-324717\5876199_mapped_official_1.20.1\jade-324717-5876199_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\just-enough-professions-jep-417645\4587024_mapped_official_1.20.1\just-enough-professions-jep-417645-4587024_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\mmmmmmmmmmmm-225738\5737040_mapped_official_1.20.1\mmmmmmmmmmmm-225738-5737040_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\selene-499980\5938277_mapped_official_1.20.1\selene-499980-5938277_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\ice-and-fire-dragons-264231\5633453_mapped_official_1.20.1\ice-and-fire-dragons-264231-5633453_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\citadel-331936\5633260_mapped_official_1.20.1\citadel-331936-5633260_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\touhou-little-maid-355044\5739414_mapped_official_1.20.1\touhou-little-maid-355044-5739414_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\projecte-226410\4901949_mapped_official_1.20.1\projecte-226410-4901949_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\embeddium-908741\5681725_mapped_official_1.20.1\embeddium-908741-5681725_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\oculus-581495\6020952_mapped_official_1.20.1\oculus-581495-6020952_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\emi-loot-681783\6157014_mapped_official_1.20.1\emi-loot-681783-6157014_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\fzzy-config-1005914\6144527_mapped_official_1.20.1\fzzy-config-1005914-6144527_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\kotlin-for-forge-351264\5402061_mapped_official_1.20.1\kotlin-for-forge-351264-5402061_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\deobf_dependencies\com\tterrag\registrate\Registrate\MC1.20-1.3.11_mapped_official_1.20.1\Registrate-MC1.20-1.3.11_mapped_official_1.20.1.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.20.1-47.1.47_mapped_official_1.20.1\forge-1.20.1-47.1.47_mapped_official_1.20.1-recomp.jar
+lib: C:\Users\30852\.gradle\caches\forge_gradle\minecraft_repo\versions\1.20.1\client-extra.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlloader\1.20.1-47.1.47\68188b4f1c30c6a14cf491c7da7f38da41bc5722\fmlloader-1.20.1-47.1.47.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarSelector\0.3.19\376cc9c8ea60720cf027c01fc033de915699801c\JarJarSelector-0.3.19.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarMetadata\0.3.19\83feaa9b770e6ac0e96ee4fc23fa89325c5fe2\JarJarMetadata-0.3.19.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\31.1-jre\60458f877d055d0c9114d9e1a2efb737b4bc282c\guava-31.1-jre.jar
+lib: C:\Users\30852\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\ca.weblite\java-objc-bridge\1.1\1227f9e0666314f9de41477e3ec277e542ed7f7b\java-objc-bridge-1.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\forgespi\7.0.1\3b4972a0cdb135853dba219be61a79b22cff1309\forgespi-7.0.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.1.5\f3da18e12c696d35a47c82cbb2cc8b5aa15e1154\mergetool-1.1.5-api.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\24.0.1\13c5c75c4206580aa4d683bffee658caae6c9f43\annotations-24.0.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.10\51e6a22c6c716beb11e244bf5b8be480f51dd6b5\securejarhandler-2.1.10.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\cpw.mods\modlauncher\10.0.9\6d9443f56f50bb85cea383686ff9c867391458b\modlauncher-10.0.9.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.openjdk.nashorn\nashorn-core\15.3\43977e804697048fc8d81d333a36c17d07a5b3dd\nashorn-core-15.3.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.5\19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0\asm-commons-9.5.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.5\64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe\asm-util-9.5.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.5\490bacc77de7cbc0be1a30bb3471072d705be4a4\asm-analysis-9.5.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.5\fd33c8b6373abaa675be407082fdfda35021254a\asm-tree-9.5.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.5\dc6ea1875f4d64fbc85e1691c95b96a3d8569c90\asm-9.5.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\accesstransformers\8.0.4\272d240aa73f42195b2a68e2ebd8b701ecf41f63\accesstransformers-8.0.4.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.antlr\antlr4\4.9.1\e92af8ab33e428461927b484e90bb155a4f3a052\antlr4-4.9.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.antlr\antlr4-runtime\4.9.1\428664f05d2b7f7b7610204b5aa7c1763f62011a\antlr4-runtime-4.9.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.1.47\62b2f9c443dd74c21edf523fd3abfbac16bddacb\fmlcore-1.20.1-47.1.47.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\eventbus\6.0.5\699143dd438431d06b57416944f7cedbe52e1475\eventbus-6.0.5.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\coremods\5.0.1\386b00279628b105b2d507539c46e134e96f6237\coremods-5.0.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\unsafe\0.2.0\54d7a0a5e8fdb71b973025caa46f341ae5904f39\unsafe-0.2.0.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.electronwill.night-config\toml\3.6.4\51d6cefb2b55ee55ee26b16391212fb2c7dfb4f4\toml-3.6.4.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.electronwill.night-config\core\3.6.4\510f174abbf1c947494db50ef2445683bd52c230\core-3.6.4.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.8.5\4433f50c07debefaed0553bd0068f4f48d449313\maven-artifact-3.8.5.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.jodah\typetools\0.6.3\a01aaa6ddaea9ec07ec4f209487b7a46a526283a\typetools-0.6.3.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecrell\terminalconsoleappender\1.2.0\96d02cd3b384ff015a8fef4223bcb4ccf1717c95\terminalconsoleappender-1.2.0.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.jline\jline-reader\3.12.1\4382ab1382c7b6f379377ed5f665dc2f6e1218bc\jline-reader-3.12.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.spongepowered\mixin\0.8.5\9d1c0c3a304ae6697ecd477218fa61b850bf57fc\mixin-0.8.5.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarFileSystems\0.3.19\2464eb7d6b9ddb9db36a82cf8a95193e5c6fe020\JarJarFileSystems-0.3.19.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlearlydisplay\1.20.1-47.1.47\b2b9a41bed58b24f27b4d7852cfaff69d675d489\fmlearlydisplay-1.20.1-47.1.47.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.1.47\57b4103e32ac0f74b33e704bfe2b9df1c6200edf\javafmllanguage-1.20.1-47.1.47.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.1.47\5f3513af8ed4fcab2417c15251cf201d688533a6\lowcodelanguage-1.20.1-47.1.47.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.1.47\ebc707d73d74451493fb5b5252dc6cf6b1bf1795\mclanguage-1.20.1-47.1.47.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.github.oshi\oshi-core\6.2.2\54f5efc19bca95d709d9a37d19ffcbba3d21c1a6\oshi-core-6.2.2.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.10\dd9b193aef96e973d5a11ab13cd17430c2e4306b\gson-2.10.jar
+lib: C:\Users\30852\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\71.1\9e7d3304c23f9ba5cb71915f7cce23231a57a445\icu4j-71.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\4.0.43\2ff9d747a77570a07a60d32ac77eb6162ad2a2d9\authlib-4.0.43.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.mojang\blocklist\1.0.10\5c685c5ffa94c4cd39496c7184c1d122e515ecef\blocklist-1.0.10.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.mojang\brigadier\1.1.8\5244ce82c3337bba4a196a3ce858bfaecc74404a\brigadier-1.1.8.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.mojang\datafixerupper\6.0.8\3ba4a30557a9b057760af4011f909ba619fc5125\datafixerupper-6.0.8.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.mojang\logging\1.1.1\832b8e6674a9b325a5175a3a6267dfaf34c85139\logging-1.1.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.mojang\patchy\2.2.10\da05971b07cbb379d002cf7eaec6a2048211fefc\patchy-2.2.10.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.17.9\3cad216e3a7f0c19b4b394388bc9ffc446f13b14\text2speech-1.17.9.jar
+lib: C:\Users\30852\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar
+lib: C:\Users\30852\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.11.0\a2503f302b11ebde7ebc3df41daebe0e4eea3689\commons-io-2.11.0.jar
+lib: C:\Users\30852\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-handler\4.1.82.Final\644041d1fa96a5d3130a29e8978630d716d76e38\netty-handler-4.1.82.Final.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec\4.1.82.Final\b77200379acb345a9ffdece1c605e591ac3e4e0a\netty-codec-4.1.82.Final.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-classes-epoll\4.1.82.Final\e7c7dd18deac93105797f30057c912651ea76521\netty-transport-classes-epoll-4.1.82.Final.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-unix-common\4.1.82.Final\3e895b35ca1b8a0eca56cacff4c2dde5d2c6abce\netty-transport-native-unix-common-4.1.82.Final.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport\4.1.82.Final\e431a218d91acb6476ccad5f5aafde50aa3945ca\netty-transport-4.1.82.Final.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-buffer\4.1.82.Final\a544270cf1ae8b8077082f5036436a9a9971ea71\netty-buffer-4.1.82.Final.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-resolver\4.1.82.Final\38f665ae8dcd29032eea31245ba7806bed2e0fa8\netty-resolver-4.1.82.Final.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\io.netty\netty-common\4.1.82.Final\22d148e85c3f5ebdacc0ce1f5aabb1d420f73f3\netty-common-4.1.82.Final.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.5.9\bb7ea75ecdb216654237830b3a96d87ad91f8cc5\fastutil-8.5.9.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna-platform\5.12.1\97406a297c852f4a41e688a176ec675f72e8329\jna-platform-5.12.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\5.12.1\b1e93a735caea94f503e95e6fe79bf9cdc1e985d\jna-5.12.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar
+lib: C:\Users\30852\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.12.0\c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e\commons-lang3-3.12.0.jar
+lib: C:\Users\30852\.m2\repository\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.19.0\3b6eeb4de4c49c0fe38a4ee27188ff5fee44d0bb\log4j-core-2.19.0.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j2-impl\2.19.0\5c04bfdd63ce9dceb2e284b81e96b6a70010ee10\log4j-slf4j2-impl-2.19.0.jar
+lib: C:\Users\30852\.m2\repository\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.joml\joml\1.10.5\22566d58af70ad3d72308bab63b8339906deb649\joml-1.10.5.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\cbac1b8d30cb4795149c1ef540f912671a8616d0\lwjgl-glfw-3.3.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\ed892f945cf7e79c8756796f32d00fa4ceaf573b\lwjgl-glfw-3.3.1-natives-windows.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\beda65ee503443e60aa196d58ed31f8d001dc22a\lwjgl-glfw-3.3.1-natives-windows-arm64.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\b997e3391d6ce8f05487e7335d95c606043884a1\lwjgl-glfw-3.3.1-natives-windows-x86.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\a817bcf213db49f710603677457567c37d53e103\lwjgl-jemalloc-3.3.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\948a89b76a16aa324b046ae9308891216ffce5f9\lwjgl-jemalloc-3.3.1-natives-windows.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\cae85c4edb219c88b6a0c26a87955ad98dc9519d\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\fb476c8ec110e1c137ad3ce8a7f7bfe6b11c6324\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\2623a6b8ae1dfcd880738656a9f0243d2e6840bd\lwjgl-openal-3.3.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\30a474d0e57193d7bc128849a3ab66bc9316fdb1\lwjgl-openal-3.3.1-natives-windows.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\40d65f1a7368a2aa47336f9cb69f5a190cf9975a\lwjgl-openal-3.3.1-natives-windows-arm64.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\888349f7b1be6fbae58bf8edfb9ef12def04c4e3\lwjgl-openal-3.3.1-natives-windows-x86.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\831a5533a21a5f4f81bbc51bb13e9899319b5411\lwjgl-opengl-3.3.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\c1807e9bd571402787d7e37e3029776ae2513bb8\lwjgl-opengl-3.3.1-natives-windows.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\527d78f1e9056aff3ed02ce93019c73c5e8f1721\lwjgl-opengl-3.3.1-natives-windows-arm64.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\deef3eb9b178ff2ff3ce893cc72ae741c3a17974\lwjgl-opengl-3.3.1-natives-windows-x86.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\b119297cf8ed01f247abe8685857f8e7fcf5980f\lwjgl-stb-3.3.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\86315914ac119efdb02dc9e8e978ade84f1702af\lwjgl-stb-3.3.1-natives-windows.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\fde63cdd2605c00636721a6c8b961e41d1f6b247\lwjgl-stb-3.3.1-natives-windows-arm64.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\a8d41f419eecb430b7c91ea2ce2c5c451cae2091\lwjgl-stb-3.3.1-natives-windows-x86.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\ff1914111ef2e3e0110ef2dabc8d8cdaad82347\lwjgl-tinyfd-3.3.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\a5d830475ec0958d9fdba1559efa99aef211e6ff\lwjgl-tinyfd-3.3.1-natives-windows.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\83a5e780df610829ff3a737822b4f931cffecd91\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\842eedd876fae354abc308c98a263f6bbc9e8a4d\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\ae58664f88e18a9bb2c77b063833ca7aaec484cb\lwjgl-3.3.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\36c37f16ab611b3aa11f3bcf80b1d509b4ce6b\lwjgl-3.3.1-natives-windows.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\f46cadcf95675908fd3a550d63d9d709cb68998\lwjgl-3.3.1-natives-windows-arm64.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\3b14f4beae9dd39791ec9e12190a9380cd8a3ce6\lwjgl-3.3.1-natives-windows-x86.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.machinezoo.noexception\noexception\1.7.1\b65330c98e38a1f915fa54a6e5eca496505e3f0a\noexception-1.7.1.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\2.0.1\f48d81adce2abf5ad3cfe463df517952749e03bc\slf4j-api-2.0.1.jar
+lib: C:\Users\30852\.m2\repository\org\codehaus\plexus\plexus-utils\3.3.0\plexus-utils-3.3.0.jar
+lib: C:\Users\30852\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.checkerframework\checker-qual\3.12.0\d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5\checker-qual-3.12.0.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\com.google.errorprone\error_prone_annotations\2.11.0\c5a0ace696d3f8b1c1d8cc036d8c03cc0cbe6b69\error_prone_annotations-2.11.0.jar
+lib: C:\Users\30852\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.antlr\ST4\4.3\92f2c1ad8d84abcbeead6cf7f2c53a04166293c2\ST4-4.3.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.antlr\antlr-runtime\3.5.2\cd9cd41361c155f3af0f653009dcecb08d8b4afd\antlr-runtime-3.5.2.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.abego.treelayout\org.abego.treelayout.core\1.0.3\457216e8e6578099ae63667bb1e4439235892028\org.abego.treelayout.core-1.0.3.jar
+lib: C:\Users\30852\.gradle\caches\modules-2\files-2.1\org.glassfish\javax.json\1.0.4\3178f73569fd7a1e5ffc464e680f7a8cc784b85a\javax.json-1.0.4.jar
+log: null
+input: D:\Datas\minecraftmod\AlchemyKingdom\build\libs\ak-1.0-SNAPSHOT.jar
+output: D:\Datas\minecraftmod\AlchemyKingdom\build\reobfJar\output.jar
+threads: 16
+Names: D:\Datas\minecraftmod\AlchemyKingdom\build\reobfJar\mappings.tsrg(reversed: false)
+Fix Annotations: false
+Fix Records: false
+Fix Identifiers: false
+Fix SourceFile: false
+Fix Line Numbers: false
+Strip codesigning signatures: false
+Adding Libraries to Inheritance
+Reading Input: D:\Datas\minecraftmod\AlchemyKingdom\build\libs\ak-1.0-SNAPSHOT.jar
+Adding input to inheritance map
+Processing entries
+Conflicting propagated mapping for com/dinzeer/ak/cilent/render/BlackSlabe/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V from net/minecraft/client/model/EntityModel/setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V: setupAnim -> m_6973_
+Conflicting propagated mapping for com/dinzeer/ak/cilent/render/BlackSlabe/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V from net/minecraft/client/model/Model/renderToBuffer(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;IIFFFF)V: renderToBuffer -> m_7695_
+Conflicting propagated mapping for com/dinzeer/ak/cilent/render/DragonRender/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for com/dinzeer/ak/cilent/render/NoneMoonRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for com/dinzeer/ak/cilent/render/CrazyWindyEyesRender/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for com/dinzeer/ak/cilent/render/ShivaRender/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for com/dinzeer/ak/cilent/render/DragonRender/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V from net/minecraft/client/renderer/entity/EntityRenderer/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V: render -> m_7392_
+Conflicting propagated mapping for com/dinzeer/ak/cilent/render/ShivaRender/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V from net/minecraft/client/renderer/entity/EntityRenderer/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V: render -> m_7392_
+Conflicting propagated mapping for com/dinzeer/ak/cilent/render/KungunierRender/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for com/dinzeer/ak/cilent/render/CrazyWindyEyesRender/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V from net/minecraft/client/renderer/entity/EntityRenderer/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V: render -> m_7392_
+Conflicting propagated mapping for com/dinzeer/ak/cilent/render/NoneMoonRenderer/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V from net/minecraft/client/renderer/entity/EntityRenderer/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V: render -> m_7392_
+Conflicting propagated mapping for com/dinzeer/ak/cilent/render/KungunierRender/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V from net/minecraft/client/renderer/entity/EntityRenderer/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V: render -> m_7392_
+Conflicting propagated mapping for com/dinzeer/ak/effects/BloodBoost/removeAttributeModifiers(Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/ai/attributes/AttributeMap;I)V from net/minecraft/world/effect/MobEffect/removeAttributeModifiers(Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/ai/attributes/AttributeMap;I)V: removeAttributeModifiers -> m_6386_
+Conflicting propagated mapping for com/dinzeer/ak/data/AKRecipeProvioder/buildRecipes(Ljava/util/function/Consumer;)V from net/minecraft/data/recipes/RecipeProvider/buildRecipes(Ljava/util/function/Consumer;)V: buildRecipes -> m_245200_
+Conflicting propagated mapping for com/dinzeer/ak/effects/ICE/applyEffectTick(Lnet/minecraft/world/entity/LivingEntity;I)V from net/minecraft/world/effect/MobEffect/applyEffectTick(Lnet/minecraft/world/entity/LivingEntity;I)V: applyEffectTick -> m_6742_
+Conflicting propagated mapping for com/dinzeer/ak/init/AKItems$DragonCross/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder; from net/minecraft/world/item/Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder;: use -> m_7203_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/Projectile/setOwner(Lnet/minecraft/world/entity/Entity;)V from net/minecraft/world/entity/projectile/Projectile/setOwner(Lnet/minecraft/world/entity/Entity;)V: setOwner -> m_5602_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/Projectile/defineSynchedData()V from net/minecraft/world/entity/Entity/defineSynchedData()V: defineSynchedData -> m_8097_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/Projectile/getOwner()Lnet/minecraft/world/entity/Entity; from net/minecraft/world/entity/projectile/Projectile/getOwner()Lnet/minecraft/world/entity/Entity;: getOwner -> m_19749_
+Conflicting propagated mapping for com/dinzeer/ak/entity/ShivaDance/tick()V from net/minecraft/world/entity/projectile/Projectile/tick()V: tick -> m_8119_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/onHit(Lnet/minecraft/world/phys/HitResult;)V from net/minecraft/world/entity/projectile/Projectile/onHit(Lnet/minecraft/world/phys/HitResult;)V: onHit -> m_6532_
+Conflicting propagated mapping for com/dinzeer/ak/entity/ShivaDance/defineSynchedData()V from mods/flammpfeil/slashblade/entity/Projectile/defineSynchedData()V: defineSynchedData -> m_8097_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/shoot(DDDFF)V from net/minecraft/world/entity/projectile/Projectile/shoot(DDDFF)V: shoot -> m_6686_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/entity/projectile/Projectile/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V: readAdditionalSaveData -> m_7378_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/onHitEntity(Lnet/minecraft/world/phys/EntityHitResult;)V from net/minecraft/world/entity/projectile/Projectile/onHitEntity(Lnet/minecraft/world/phys/EntityHitResult;)V: onHitEntity -> m_5790_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/tick()V from net/minecraft/world/entity/projectile/Projectile/tick()V: tick -> m_8119_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/shouldRenderAtSqrDistance(D)Z from net/minecraft/world/entity/Entity/shouldRenderAtSqrDistance(D)Z: shouldRenderAtSqrDistance -> m_6783_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet; from net/minecraft/world/entity/projectile/Projectile/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet;: getAddEntityPacket -> m_5654_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/lerpTo(DDDFFIZ)V from net/minecraft/world/entity/Entity/lerpTo(DDDFFIZ)V: lerpTo -> m_6453_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/lerpMotion(DDD)V from net/minecraft/world/entity/projectile/Projectile/lerpMotion(DDD)V: lerpMotion -> m_6001_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/defineSynchedData()V from mods/flammpfeil/slashblade/entity/Projectile/defineSynchedData()V: defineSynchedData -> m_8097_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/push(Lnet/minecraft/world/entity/Entity;)V from net/minecraft/world/entity/Entity/push(Lnet/minecraft/world/entity/Entity;)V: push -> m_7334_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/entity/projectile/Projectile/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V: addAdditionalSaveData -> m_7380_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/onHitBlock(Lnet/minecraft/world/phys/BlockHitResult;)V from net/minecraft/world/entity/projectile/Projectile/onHitBlock(Lnet/minecraft/world/phys/BlockHitResult;)V: onHitBlock -> m_8060_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/IShootable/shoot(DDDFF)V from mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/shoot(DDDFF)V: shoot -> m_6686_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/client/renderer/entity/DriveRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/client/renderer/entity/DriveRenderer/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V from net/minecraft/client/renderer/entity/EntityRenderer/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V: render -> m_7392_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/recipe/SlashBladeShapedRecipeBuilder/unlockedBy(Ljava/lang/String;Lnet/minecraft/advancements/CriterionTriggerInstance;)Lnet/minecraft/data/recipes/RecipeBuilder; from net/minecraft/data/recipes/RecipeBuilder/unlockedBy(Ljava/lang/String;Lnet/minecraft/advancements/CriterionTriggerInstance;)Lnet/minecraft/data/recipes/RecipeBuilder;: unlockedBy -> m_126132_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/recipe/SlashBladeShapedRecipeBuilder/save(Ljava/util/function/Consumer;)V from net/minecraft/data/recipes/RecipeBuilder/save(Ljava/util/function/Consumer;)V: save -> m_176498_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/recipe/SlashBladeShapedRecipeBuilder/group(Ljava/lang/String;)Lnet/minecraft/data/recipes/RecipeBuilder; from net/minecraft/data/recipes/RecipeBuilder/group(Ljava/lang/String;)Lnet/minecraft/data/recipes/RecipeBuilder;: group -> m_126145_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/recipe/SlashBladeShapedRecipeBuilder/getResult()Lnet/minecraft/world/item/Item; from net/minecraft/data/recipes/RecipeBuilder/getResult()Lnet/minecraft/world/item/Item;: getResult -> m_142372_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/recipe/SlashBladeShapedRecipeBuilder/save(Ljava/util/function/Consumer;Lnet/minecraft/resources/ResourceLocation;)V from net/minecraft/data/recipes/RecipeBuilder/save(Ljava/util/function/Consumer;Lnet/minecraft/resources/ResourceLocation;)V: save -> m_126140_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/recipe/SlashBladeIngredient/toJson()Lcom/google/gson/JsonElement; from net/minecraft/world/item/crafting/Ingredient/toJson()Lcom/google/gson/JsonElement;: toJson -> m_43942_
+Conflicting propagated mapping for com/dinzeer/ak/entity/CrazyWindyEyes/tick()V from net/minecraft/world/entity/projectile/Projectile/tick()V: tick -> m_8119_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/client/renderer/util/BladeRenderState/lambda$static$1()V from net/minecraft/client/renderer/RenderStateShard/lambda$static$1()V: lambda$static$1 -> m_110183_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/client/renderer/util/BladeRenderState/lambda$static$2()V from net/minecraft/client/renderer/RenderStateShard/lambda$static$2()V: lambda$static$2 -> m_110182_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/client/renderer/util/BladeRenderState/lambda$static$3()V from net/minecraft/client/renderer/RenderStateShard/lambda$static$3()V: lambda$static$3 -> m_110181_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/client/renderer/util/BladeRenderState/lambda$static$4()V from net/minecraft/client/renderer/RenderStateShard/lambda$static$4()V: lambda$static$4 -> m_110180_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityDrive/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V from mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V: readAdditionalSaveData -> m_7378_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityDrive/onHitEntity(Lnet/minecraft/world/phys/EntityHitResult;)V from mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/onHitEntity(Lnet/minecraft/world/phys/EntityHitResult;)V: onHitEntity -> m_5790_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityDrive/tick()V from mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/tick()V: tick -> m_8119_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityDrive/shouldRenderAtSqrDistance(D)Z from mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/shouldRenderAtSqrDistance(D)Z: shouldRenderAtSqrDistance -> m_6783_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityDrive/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet; from mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet;: getAddEntityPacket -> m_5654_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityDrive/defineSynchedData()V from mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/defineSynchedData()V: defineSynchedData -> m_8097_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityDrive/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V from mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V: addAdditionalSaveData -> m_7380_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntityDrive/onHitBlock(Lnet/minecraft/world/phys/BlockHitResult;)V from mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/onHitBlock(Lnet/minecraft/world/phys/BlockHitResult;)V: onHitBlock -> m_8060_
+Conflicting propagated mapping for com/dinzeer/ak/entity/DragonEntity/tick()V from mods/flammpfeil/slashblade/entity/EntityDrive/tick()V: tick -> m_8119_
+Conflicting propagated mapping for com/dinzeer/ak/entity/EntityBlisteringSword/onHitEntity(Lnet/minecraft/world/phys/EntityHitResult;)V from mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/onHitEntity(Lnet/minecraft/world/phys/EntityHitResult;)V: onHitEntity -> m_5790_
+Conflicting propagated mapping for com/dinzeer/ak/entity/EntityBlisteringSword/tick()V from mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/tick()V: tick -> m_8119_
+Conflicting propagated mapping for com/dinzeer/ak/entity/EntityBlisteringSword/rideTick()V from net/minecraft/world/entity/Entity/rideTick()V: rideTick -> m_6083_
+Conflicting propagated mapping for com/dinzeer/ak/entity/EntityBlisteringSword/defineSynchedData()V from mods/flammpfeil/slashblade/entity/EntityAbstractSummonedSword/defineSynchedData()V: defineSynchedData -> m_8097_
+Conflicting propagated mapping for com/dinzeer/ak/entity/EntityZenith12thSword/onHitEntity(Lnet/minecraft/world/phys/EntityHitResult;)V from com/dinzeer/ak/entity/EntityBlisteringSword/onHitEntity(Lnet/minecraft/world/phys/EntityHitResult;)V: onHitEntity -> m_5790_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/client/renderer/entity/SlashEffectRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/client/renderer/entity/SlashEffectRenderer/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V from net/minecraft/client/renderer/entity/EntityRenderer/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V: render -> m_7392_
+Conflicting propagated mapping for com/dinzeer/ak/entity/FireDriveEntity/onHitEntity(Lnet/minecraft/world/phys/EntityHitResult;)V from mods/flammpfeil/slashblade/entity/EntityDrive/onHitEntity(Lnet/minecraft/world/phys/EntityHitResult;)V: onHitEntity -> m_5790_
+Conflicting propagated mapping for com/dinzeer/ak/entity/FireDriveEntity/tick()V from mods/flammpfeil/slashblade/entity/EntityDrive/tick()V: tick -> m_8119_
+Conflicting propagated mapping for net/minecraft/world/entity/LivingEntity/lambda$addAdditionalSaveData$3(Lnet/minecraft/nbt/CompoundTag;Lnet/minecraft/nbt/Tag;)V from net/minecraft/world/entity/player/Player/lambda$addAdditionalSaveData$3(Lnet/minecraft/nbt/CompoundTag;Lnet/minecraft/nbt/Tag;)V: lambda$addAdditionalSaveData$3 -> m_219754_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/client/renderer/entity/SummonedSwordRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/client/renderer/entity/SummonedSwordRenderer/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V from net/minecraft/client/renderer/entity/EntityRenderer/render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V: render -> m_7392_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntitySlashEffect/shoot(DDDFF)V from net/minecraft/world/entity/projectile/Projectile/shoot(DDDFF)V: shoot -> m_6686_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntitySlashEffect/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/entity/projectile/Projectile/readAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V: readAdditionalSaveData -> m_7378_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntitySlashEffect/tick()V from net/minecraft/world/entity/projectile/Projectile/tick()V: tick -> m_8119_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntitySlashEffect/shouldRenderAtSqrDistance(D)Z from net/minecraft/world/entity/Entity/shouldRenderAtSqrDistance(D)Z: shouldRenderAtSqrDistance -> m_6783_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntitySlashEffect/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet; from net/minecraft/world/entity/projectile/Projectile/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet;: getAddEntityPacket -> m_5654_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntitySlashEffect/lerpTo(DDDFFIZ)V from net/minecraft/world/entity/Entity/lerpTo(DDDFFIZ)V: lerpTo -> m_6453_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntitySlashEffect/lerpMotion(DDD)V from net/minecraft/world/entity/projectile/Projectile/lerpMotion(DDD)V: lerpMotion -> m_6001_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntitySlashEffect/defineSynchedData()V from mods/flammpfeil/slashblade/entity/Projectile/defineSynchedData()V: defineSynchedData -> m_8097_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/entity/EntitySlashEffect/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V from net/minecraft/world/entity/projectile/Projectile/addAdditionalSaveData(Lnet/minecraft/nbt/CompoundTag;)V: addAdditionalSaveData -> m_7380_
+Conflicting propagated mapping for com/dinzeer/ak/entity/LiuliFanCity/tick()V from net/minecraft/world/entity/projectile/Projectile/tick()V: tick -> m_8119_
+Conflicting propagated mapping for com/dinzeer/ak/entity/KungunierEntity/onHitEntity(Lnet/minecraft/world/phys/EntityHitResult;)V from mods/flammpfeil/slashblade/entity/EntityDrive/onHitEntity(Lnet/minecraft/world/phys/EntityHitResult;)V: onHitEntity -> m_5790_
+Conflicting propagated mapping for com/dinzeer/ak/entity/KungunierEntity/tick()V from mods/flammpfeil/slashblade/entity/EntityDrive/tick()V: tick -> m_8119_
+Conflicting propagated mapping for com/dinzeer/ak/entity/Ruins/tick()V from net/minecraft/world/entity/projectile/Projectile/tick()V: tick -> m_8119_
+Conflicting propagated mapping for com/dinzeer/ak/entity/HealSlashEntity/onHitEntity(Lnet/minecraft/world/phys/EntityHitResult;)V from net/minecraft/world/entity/projectile/Projectile/onHitEntity(Lnet/minecraft/world/phys/EntityHitResult;)V: onHitEntity -> m_5790_
+Conflicting propagated mapping for com/dinzeer/ak/entity/TheEmperorofIce/tick()V from net/minecraft/world/entity/projectile/Projectile/tick()V: tick -> m_8119_
+Conflicting propagated mapping for com/tterrag/registrate/util/entry/ItemProviderEntry/asItem()Lnet/minecraft/world/item/Item; from net/minecraft/world/level/ItemLike/asItem()Lnet/minecraft/world/item/Item;: asItem -> m_5456_
+Conflicting propagated mapping for com/dinzeer/ak/init/AKItems$UnknownSecretSauce/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder; from net/minecraft/world/item/Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder;: use -> m_7203_
+Conflicting propagated mapping for com/dinzeer/ak/network/AKvaV$MapVariables/save(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/nbt/CompoundTag; from net/minecraft/world/level/saveddata/SavedData/save(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/nbt/CompoundTag;: save -> m_7176_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/item/ItemSlashBlade/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V from net/minecraft/world/item/Item/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V: appendHoverText -> m_7373_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/item/ItemSlashBlade/getRarity(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/world/item/Rarity; from net/minecraft/world/item/Item/getRarity(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/world/item/Rarity;: getRarity -> m_41460_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/item/ItemSlashBlade/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder; from net/minecraft/world/item/Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder;: use -> m_7203_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/item/ItemSlashBlade/getUseDuration(Lnet/minecraft/world/item/ItemStack;)I from net/minecraft/world/item/Item/getUseDuration(Lnet/minecraft/world/item/ItemStack;)I: getUseDuration -> m_8105_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/item/ItemSlashBlade/mineBlock(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/LivingEntity;)Z from net/minecraft/world/item/SwordItem/mineBlock(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/LivingEntity;)Z: mineBlock -> m_6813_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/item/ItemSlashBlade/isValidRepairItem(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/item/TieredItem/isValidRepairItem(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemStack;)Z: isValidRepairItem -> m_6832_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/item/ItemSlashBlade/onUseTick(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/item/ItemStack;I)V from net/minecraft/world/item/Item/onUseTick(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/item/ItemStack;I)V: onUseTick -> m_5929_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/item/ItemSlashBlade/releaseUsing(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;I)V from net/minecraft/world/item/Item/releaseUsing(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;I)V: releaseUsing -> m_5551_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/item/ItemSlashBlade/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z from net/minecraft/world/item/SwordItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z: hurtEnemy -> m_7579_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/item/ItemSlashBlade/isBarVisible(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/item/Item/isBarVisible(Lnet/minecraft/world/item/ItemStack;)Z: isBarVisible -> m_142522_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/item/ItemSlashBlade/inventoryTick(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/Entity;IZ)V from net/minecraft/world/item/Item/inventoryTick(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/Entity;IZ)V: inventoryTick -> m_6883_
+Conflicting propagated mapping for mods/flammpfeil/slashblade/item/ItemSlashBlade/getDescriptionId(Lnet/minecraft/world/item/ItemStack;)Ljava/lang/String; from net/minecraft/world/item/Item/getDescriptionId(Lnet/minecraft/world/item/ItemStack;)Ljava/lang/String;: getDescriptionId -> m_5671_
+Conflicting propagated mapping for com/dinzeer/ak/network/AKvaV$WorldVariables/save(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/nbt/CompoundTag; from net/minecraft/world/level/saveddata/SavedData/save(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/nbt/CompoundTag;: save -> m_7176_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/isInvulnerableTo(Lnet/minecraft/world/damagesource/DamageSource;)Z from net/minecraft/server/level/ServerPlayer/isInvulnerableTo(Lnet/minecraft/world/damagesource/DamageSource;)Z: isInvulnerableTo -> m_6673_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/canHarmPlayer(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/server/level/ServerPlayer/canHarmPlayer(Lnet/minecraft/world/entity/player/Player;)Z: canHarmPlayer -> m_7099_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/updateOptions(Lnet/minecraft/network/protocol/game/ServerboundClientInformationPacket;)V from net/minecraft/server/level/ServerPlayer/updateOptions(Lnet/minecraft/network/protocol/game/ServerboundClientInformationPacket;)V: updateOptions -> m_9156_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/displayClientMessage(Lnet/minecraft/network/chat/Component;Z)V from net/minecraft/server/level/ServerPlayer/displayClientMessage(Lnet/minecraft/network/chat/Component;Z)V: displayClientMessage -> m_5661_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/die(Lnet/minecraft/world/damagesource/DamageSource;)V from net/minecraft/server/level/ServerPlayer/die(Lnet/minecraft/world/damagesource/DamageSource;)V: die -> m_6667_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/tick()V from net/minecraft/server/level/ServerPlayer/tick()V: tick -> m_8119_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/getServer()Lnet/minecraft/server/MinecraftServer; from net/minecraft/world/entity/Entity/getServer()Lnet/minecraft/server/MinecraftServer;: getServer -> m_20194_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/awardStat(Lnet/minecraft/stats/Stat;I)V from net/minecraft/server/level/ServerPlayer/awardStat(Lnet/minecraft/stats/Stat;I)V: awardStat -> m_6278_
+Conflicting propagated mapping for net/minecraftforge/entity/PartEntity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet; from net/minecraft/world/entity/Entity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet;: getAddEntityPacket -> m_5654_
+Adding extras
+Sorting
+Writing Output: D:\Datas\minecraftmod\AlchemyKingdom\build\reobfJar\output.jar
+  META-INF/
+  META-INF/MANIFEST.MF
+  .cache/
+  .cache/103d9f3f36b01595f1aa5172191e60eff02e6924
+  .cache/9fb1092f32d4fcbf9e061ffd718d4ec689c6c95e
+  .cache/c4bd0121d2ff1ab332133b90bb0b5f7245acc856
+  META-INF/mods.toml
+  ak.mixins.json
+  ak.refmap.json
+  assets/
+  assets/ak/
+  assets/ak/lang/
+  assets/ak/lang/en_ud.json
+  assets/ak/lang/en_us.json
+  assets/ak/lang/zh_cn.json
+  assets/ak/model/
+  assets/ak/model/named/
+  assets/ak/model/named/child/
+  assets/ak/model/named/child/blood.png
+  assets/ak/model/named/child/sange.obj
+  assets/ak/model/named/cloud/
+  assets/ak/model/named/cloud/blood.png
+  assets/ak/model/named/cloud/sange.obj
+  assets/ak/model/named/dick_wido/
+  assets/ak/model/named/dick_wido/blood.png
+  assets/ak/model/named/dick_wido/sange.obj
+  assets/ak/model/named/kill_dragon/
+  assets/ak/model/named/kill_dragon/blood.png
+  assets/ak/model/named/kill_dragon/sange.obj
+  assets/ak/model/named/kungunier/
+  assets/ak/model/named/kungunier/blood.png
+  assets/ak/model/named/kungunier/kungunier_drive.mtl
+  assets/ak/model/named/kungunier/kungunier_drive.obj
+  assets/ak/model/named/kungunier/sange.obj
+  assets/ak/model/named/kungunier/￦ﾗﾠ￦ﾠﾇ￩ﾢﾘ.mtl
+  assets/ak/model/named/murasame/
+  assets/ak/model/named/murasame/blood.png
+  assets/ak/model/named/murasame/sange.obj
+  assets/ak/model/named/murasame/￦ﾗﾠ￦ﾠﾇ￩ﾢﾘ.mtl
+  assets/ak/model/named/pocket_knife/
+  assets/ak/model/named/pocket_knife/blood.png
+  assets/ak/model/named/pocket_knife/sange.obj
+  assets/ak/model/named/sin/
+  assets/ak/model/named/sin/arrogant/
+  assets/ak/model/named/sin/arrogant/blood.png
+  assets/ak/model/named/sin/arrogant/sange.mtl
+  assets/ak/model/named/sin/arrogant/sange.obj
+  assets/ak/model/named/sin/arrogant/￦ﾗﾠ￦ﾠﾇ￩ﾢﾘ.mtl
+  assets/ak/model/named/sin/greedy/
+  assets/ak/model/named/sin/greedy/blood.png
+  assets/ak/model/named/sin/greedy/model.mtl
+  assets/ak/model/named/sin/greedy/sange.mtl
+  assets/ak/model/named/sin/greedy/sange.obj
+  assets/ak/model/named/sin/jealous/
+  assets/ak/model/named/sin/jealous/blood.png
+  assets/ak/model/named/sin/jealous/model.mtl
+  assets/ak/model/named/sin/jealous/sange.obj
+  assets/ak/model/named/sin/lazy/
+  assets/ak/model/named/sin/lazy/blood.png
+  assets/ak/model/named/sin/lazy/sange.mtl
+  assets/ak/model/named/sin/lazy/sange.obj
+  assets/ak/model/named/sin/lust/
+  assets/ak/model/named/sin/lust/blood.png
+  assets/ak/model/named/sin/lust/model.mtl
+  assets/ak/model/named/sin/lust/sange.obj
+  assets/ak/model/named/sin/lust/￦ﾗﾠ￦ﾠﾇ￩ﾢﾘ.mtl
+  assets/ak/model/named/sin/rage/
+  assets/ak/model/named/sin/rage/blood.png
+  assets/ak/model/named/sin/rage/sange.mtl
+  assets/ak/model/named/sin/rage/sange.obj
+  assets/ak/model/named/sin/rage/￦ﾗﾠ￦ﾠﾇ￩ﾢﾘ.mtl
+  assets/ak/model/named/sin/tai_ti/
+  assets/ak/model/named/sin/tai_ti/blood.png
+  assets/ak/model/named/sin/tai_ti/model.mtl
+  assets/ak/model/named/sin/tai_ti/sange.mtl
+  assets/ak/model/named/sin/tai_ti/sange.obj
+  assets/ak/model/named/spider/
+  assets/ak/model/named/spider/blood.png
+  assets/ak/model/named/spider/sange.obj
+  assets/ak/model/named/yataghans/
+  assets/ak/model/named/yataghans/blood.png
+  assets/ak/model/named/yataghans/sange.obj
+  assets/ak/model/util/
+  assets/ak/model/util/dragon.obj
+  assets/ak/model/util/kungunier_drive.obj
+  assets/ak/model/util/kungunier_texture.png
+  assets/ak/models/
+  assets/ak/models/item/
+  assets/ak/models/item/dragon_cross.json
+  assets/ak/models/item/gem.json
+  assets/ak/models/item/unknown_secret_sauce.json
+  assets/ak/models/item/worldtree.json
+  assets/ak/sounds.json
+  assets/ak/sounds/
+  assets/ak/sounds/time_stop.ogg
+  assets/ak/textures/
+  assets/ak/textures/entity/
+  assets/ak/textures/entity/black.png
+  assets/ak/textures/item/
+  assets/ak/textures/item/dragon_cross.png
+  assets/ak/textures/item/gem.png
+  assets/ak/textures/item/unknown_secret_sauce.png
+  assets/ak/textures/item/worldtree.png
+  assets/ak/textures/mob_effect/
+  assets/ak/textures/mob_effect/blood_boost.png
+  com/
+  com/dinzeer/
+  com/dinzeer/ak/
+  com/dinzeer/ak/AlchemyKingdom$EffectAbout.class
+  com/dinzeer/ak/AlchemyKingdom$SoundAbout.class
+  com/dinzeer/ak/AlchemyKingdom.class
+  com/dinzeer/ak/Config.class
+  com/dinzeer/ak/cilent/
+  com/dinzeer/ak/cilent/AKClient.class
+  com/dinzeer/ak/cilent/render/
+  com/dinzeer/ak/cilent/render/BlackSlabe.class
+  com/dinzeer/ak/cilent/render/CrazyWindyEyesRender.class
+  com/dinzeer/ak/cilent/render/DragonRender.class
+  com/dinzeer/ak/cilent/render/KungunierRender.class
+  com/dinzeer/ak/cilent/render/NoneMoonRenderer.class
+  com/dinzeer/ak/cilent/render/ShivaRender.class
+  com/dinzeer/ak/content/
+  com/dinzeer/ak/content/talent/
+  com/dinzeer/ak/content/talent/handle/
+  com/dinzeer/ak/content/talent/handle/TalentHandle.class
+  com/dinzeer/ak/data/
+  com/dinzeer/ak/data/AKBuiltInRegsitry.class
+  com/dinzeer/ak/data/AKDataGen.class
+  com/dinzeer/ak/data/AKRecipeProvioder.class
+  com/dinzeer/ak/effects/
+  com/dinzeer/ak/effects/BloodBoost.class
+  com/dinzeer/ak/effects/ICE.class
+  com/dinzeer/ak/entity/
+  com/dinzeer/ak/entity/CrazyWindyEyes.class
+  com/dinzeer/ak/entity/DragonEntity.class
+  com/dinzeer/ak/entity/EntityBlisteringSword.class
+  com/dinzeer/ak/entity/EntityZenith12thSword.class
+  com/dinzeer/ak/entity/FireDriveEntity.class
+  com/dinzeer/ak/entity/HealSlashEntity.class
+  com/dinzeer/ak/entity/KungunierEntity.class
+  com/dinzeer/ak/entity/LiuliFanCity.class
+  com/dinzeer/ak/entity/Ruins.class
+  com/dinzeer/ak/entity/ShivaDance.class
+  com/dinzeer/ak/entity/TheEmperorofIce.class
+  com/dinzeer/ak/init/
+  com/dinzeer/ak/init/AKItems$DragonCross.class
+  com/dinzeer/ak/init/AKItems$UnknownSecretSauce.class
+  com/dinzeer/ak/init/AKItems.class
+  com/dinzeer/ak/mixin/
+  com/dinzeer/ak/mixin/ClientEntityMixin.class
+  com/dinzeer/ak/mixin/MinecraftMixin.class
+  com/dinzeer/ak/mixin/SwordTypeMixin.class
+  com/dinzeer/ak/network/
+  com/dinzeer/ak/network/AKvaV$1.class
+  com/dinzeer/ak/network/AKvaV$EventBusVariableHandlers.class
+  com/dinzeer/ak/network/AKvaV$MapVariables.class
+  com/dinzeer/ak/network/AKvaV$PlayerVariables.class
+  com/dinzeer/ak/network/AKvaV$PlayerVariablesProvider.class
+  com/dinzeer/ak/network/AKvaV$PlayerVariablesSyncMessage.class
+  com/dinzeer/ak/network/AKvaV$SavedDataSyncMessage.class
+  com/dinzeer/ak/network/AKvaV$WorldVariables.class
+  com/dinzeer/ak/network/AKvaV.class
+  com/dinzeer/ak/regsitry/
+  com/dinzeer/ak/regsitry/AKEntiteRegristrys.class
+  com/dinzeer/ak/regsitry/AKcomboRegsitry.class
+  com/dinzeer/ak/regsitry/AKslashartRegsitry.class
+  com/dinzeer/ak/regsitry/LangUtil.class
+  com/dinzeer/ak/sa/
+  com/dinzeer/ak/sa/BloodsuckingSickle.class
+  com/dinzeer/ak/sa/Dragon.class
+  com/dinzeer/ak/sa/Fate.class
+  com/dinzeer/ak/sa/FireSlash.class
+  com/dinzeer/ak/sa/Immortal.class
+  com/dinzeer/ak/sa/King.class
+  com/dinzeer/ak/sa/KingFire.class
+  com/dinzeer/ak/sa/LiulifanCity.class
+  com/dinzeer/ak/sa/Ruins.class
+  com/dinzeer/ak/sa/ShivaDance.class
+  com/dinzeer/ak/sa/TheEmperorofIce.class
+  com/dinzeer/ak/sa/TheWrathofIndra.class
+  com/dinzeer/ak/sa/TimeZero.class
+  com/dinzeer/ak/sa/WindyEyes.class
+  com/dinzeer/ak/se/
+  com/dinzeer/ak/se/SpecialEffectEx.class
+  com/dinzeer/ak/utils/
+  com/dinzeer/ak/utils/EntityPointer.class
+  com/dinzeer/ak/utils/HasSins.class
+  com/dinzeer/ak/utils/WeightedUtil.class
+  data/
+  data/ak/
+  data/ak/advancements/
+  data/ak/advancements/recipes/
+  data/ak/advancements/recipes/combat/
+  data/ak/advancements/recipes/combat/arrogant.json
+  data/ak/advancements/recipes/combat/child.json
+  data/ak/advancements/recipes/combat/cloud.json
+  data/ak/advancements/recipes/combat/dick_wido.json
+  data/ak/advancements/recipes/combat/greedy.json
+  data/ak/advancements/recipes/combat/jealous.json
+  data/ak/advancements/recipes/combat/kill_dragon.json
+  data/ak/advancements/recipes/combat/kungunier.json
+  data/ak/advancements/recipes/combat/lazy.json
+  data/ak/advancements/recipes/combat/lust.json
+  data/ak/advancements/recipes/combat/murasame.json
+  data/ak/advancements/recipes/combat/pocket_knife.json
+  data/ak/advancements/recipes/combat/rage.json
+  data/ak/advancements/recipes/combat/spider.json
+  data/ak/advancements/recipes/combat/tai_ti.json
+  data/ak/advancements/recipes/combat/yataghans.json
+  data/ak/recipes/
+  data/ak/recipes/arrogant.json
+  data/ak/recipes/child.json
+  data/ak/recipes/cloud.json
+  data/ak/recipes/dick_wido.json
+  data/ak/recipes/dragon_cross_blasting.json
+  data/ak/recipes/dragon_cross_smelting.json
+  data/ak/recipes/greedy.json
+  data/ak/recipes/jealous.json
+  data/ak/recipes/kill_dragon.json
+  data/ak/recipes/kungunier.json
+  data/ak/recipes/lazy.json
+  data/ak/recipes/lust.json
+  data/ak/recipes/murasame.json
+  data/ak/recipes/pocket_knife.json
+  data/ak/recipes/rage.json
+  data/ak/recipes/spider.json
+  data/ak/recipes/tai_ti.json
+  data/ak/recipes/yataghans.json
+  data/ak/slashblade/
+  data/ak/slashblade/named_blades/
+  data/ak/slashblade/named_blades/arrogant.json
+  data/ak/slashblade/named_blades/child.json
+  data/ak/slashblade/named_blades/cloud.json
+  data/ak/slashblade/named_blades/dick_wido.json
+  data/ak/slashblade/named_blades/greedy.json
+  data/ak/slashblade/named_blades/jealous.json
+  data/ak/slashblade/named_blades/kill_dragon.json
+  data/ak/slashblade/named_blades/kungunier.json
+  data/ak/slashblade/named_blades/lazy.json
+  data/ak/slashblade/named_blades/lust.json
+  data/ak/slashblade/named_blades/murasame.json
+  data/ak/slashblade/named_blades/pocket_knife.json
+  data/ak/slashblade/named_blades/rage.json
+  data/ak/slashblade/named_blades/spider.json
+  data/ak/slashblade/named_blades/tai_ti.json
+  data/ak/slashblade/named_blades/yataghans.json
+  data/minecraft/
+  data/minecraft/loot_tables/
+  data/minecraft/loot_tables/chests/
+  data/minecraft/loot_tables/chests/shipwreck_treasure.json
+  pack.mcmeta

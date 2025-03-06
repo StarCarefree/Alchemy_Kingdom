@@ -1,4 +1,7 @@
 {
+  "ak.sword_type.fate": "Ǝ⟘ⱯℲ",
+  "ak.sword_type.king": "Ǝ⟘IHM",
+  "ak.sword_type.sin": "uıs",
   "effect.ak.blood_boost": "ʇsooq pooןq",
   "item.ak.arrogant": "ʇuɐboɹɹɐ",
   "item.ak.child": "pןıɥɔ",
@@ -21,6 +24,7 @@
   "item.ak.worldtree": "ǝǝɹʇpןɹoM",
   "item.ak.yataghans": "suɐɥbɐʇɐʎ",
   "itemGroup.ak.ak_items": "sɯǝʇı ʞⱯ",
+  "itemGroup.ak.ak_slashblade": "ǝpɐןqɥsɐןs ʞⱯ",
   "message.ak.talent.a": "¡Ɐ",
   "message.ak.talent.b": "¡ᗺ",
   "message.ak.talent.s": "¡S",

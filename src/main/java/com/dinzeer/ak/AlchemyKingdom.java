@@ -66,7 +66,7 @@ public class AlchemyKingdom {
 
     public static final RegistryObject<CreativeModeTab> AKSlashblade = CREATIVE_MODE_TABS.register("ak_slashblade",
             () -> CreativeModeTab.builder()
-                    .title(Component.translatable("item_group.ak.ak_slashblade")).icon(() -> {
+                    .title(Component.translatable("itemGroup.ak.ak_slashblade")).icon(() -> {
                         ItemStack stack = new ItemStack(SBItems.slashblade);
                         stack.getCapability(ItemSlashBlade.BLADESTATE).ifPresent(s -> {
                             s.setModel(new ResourceLocation(MODID, "model/named/sin/rage/sange.obj"));

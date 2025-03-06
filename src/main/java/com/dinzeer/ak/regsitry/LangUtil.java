@@ -50,7 +50,13 @@ public class LangUtil {
         REGISTRATE.addRawLang("message.ak.talent.up_S","UP S!");
         REGISTRATE.addRawLang("message.ak.talent.up_S+","UP S+!");
         REGISTRATE.addRawLang("itemGroup.ak.ak_items","AK items");
+        REGISTRATE.addRawLang("itemGroup.ak.ak_slashblade","AK slashblade");
         REGISTRATE.addRawLang("message.ak.useMixin","You Now Blood Boost");
+        REGISTRATE.addRawLang("enchantment.level.0","「cry」");
+
+        REGISTRATE.addRawLang("ak.sword_type.fate","FATE");
+        REGISTRATE.addRawLang("ak.sword_type.king","WHITE");
+        REGISTRATE.addRawLang("ak.sword_type.sin","sin");
 
         REGISTRATE.addRawLang("effect.ak.blood_boost","blood boost");
     }

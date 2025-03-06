@@ -1,0 +1,31 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 0
+    },
+    {
+      "id": "minecraft:bane_of_arthropods",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:power",
+      "lvl": 5
+    }
+  ],
+  "name": "ak:lust",
+  "properties": {
+    "attack_base": 24.0,
+    "max_damage": 180,
+    "slash_art": "ak:windy_eyes",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "carry_type": "ninja",
+    "model": "ak:model/named/sin/lust/sange.obj",
+    "summon_sword_color": 16777215,
+    "texture": "ak:model/named/sin/lust/blood.png"
+  }
+}

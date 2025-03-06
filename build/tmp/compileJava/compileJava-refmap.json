@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "com/dinzeer/ak/mixin/MinecraftMixin": {
+      "shouldEntityAppearGlowing": "Lnet/minecraft/client/Minecraft;m_91314_(Lnet/minecraft/world/entity/Entity;)Z"
+    },
+    "com/dinzeer/ak/mixin/ClientEntityMixin": {
+      "getTeamColor": "Lnet/minecraft/world/entity/Entity;m_19876_()I"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/dinzeer/ak/mixin/MinecraftMixin": {
+        "shouldEntityAppearGlowing": "Lnet/minecraft/client/Minecraft;m_91314_(Lnet/minecraft/world/entity/Entity;)Z"
+      },
+      "com/dinzeer/ak/mixin/ClientEntityMixin": {
+        "getTeamColor": "Lnet/minecraft/world/entity/Entity;m_19876_()I"
+      }
+    }
+  }
+}
