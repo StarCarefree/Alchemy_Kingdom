@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
 Specification-Title: ak
-Specification-Vendor: dinzeer
+Specification-Vendor: TheFlareStar,dinzeer
 Specification-Version: 1
 Implementation-Title: alchemykingdom
-Implementation-Version: 1.0-SNAPSHOT
-Implementation-Vendor: dinzeer
-Implementation-Timestamp: 2025-03-06T16:56:58+0800
+Implementation-Version: 1.0.0
+Implementation-Vendor: TheFlareStar,dinzeer
+Implementation-Timestamp: 2025-03-07T10:41:26+0800
 MixinConfigs: ak.mixins.json
 

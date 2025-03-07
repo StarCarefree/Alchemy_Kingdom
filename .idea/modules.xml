@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/alchemykingdom.main.iml" filepath="$PROJECT_DIR$/.idea/modules/alchemykingdom.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/alchemykingdom.test.iml" filepath="$PROJECT_DIR$/.idea/modules/alchemykingdom.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cn.star.alchemykingdom.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cn.star.alchemykingdom.test.iml" />
     </modules>
   </component>
 </project>
