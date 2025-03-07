@@ -5,7 +5,7 @@ license = "https://www.scarefree.cn/license.html"
 # The modid of the mod
 modId = "ak" #mandatory
 # The version number of the mod
-version = "1.0.0" #mandatory
+version = "1.0.1" #mandatory
 # A display name for the mod
 displayName = "AlchemyKingdom" #mandatory
 authors = "TheFlareStar,dinzeer" #optional

@@ -81,7 +81,7 @@ public class TalentHandle {
                     }
                 }
                 if (playerVariables.talent >= 3){
-                    if (entity.getType() == Config.drop_dragon_cross_boss){
+                    if (Config.drop_dragon_cross_boss.contains(entity.getType())){
                         Level level = entity.level();
                         level.addFreshEntity(new ItemEntity(level,entity.getX(),entity.getY(),entity.getZ(), AKItems.DRAGON_CROSS.get().getDefaultInstance()));
                     }
