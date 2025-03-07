@@ -22,6 +22,8 @@ import net.minecraft.world.effect.MobEffect;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.item.ItemStack;
+import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.ModLoadingContext;
@@ -81,7 +83,7 @@ public class AlchemyKingdom {
                     .build());
 
 
-
+    @OnlyIn(Dist.CLIENT)
     private static void fillBlades(CreativeModeTab.Output output) {
         if (Minecraft.getInstance().getConnection() != null) {
             BladeModelManager.getClientSlashBladeRegistry()
@@ -102,7 +104,7 @@ public class AlchemyKingdom {
         }
     }
 
-    // Directly reference a slf4j logger
+
     private static final Logger LOGGER = LogUtils.getLogger();
     // Create a Deferred Register to hold Blocks which will all be registered under the "ak" namespace
 
