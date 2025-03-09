@@ -14,10 +14,20 @@ public class EntitySword extends EntityAbstractSummonedSword {
     public static EntitySword createInstance(PlayMessages.SpawnEntity packet, Level worldIn) {
         return new EntitySword(AKEntiteRegristrys.EntitySwordS, worldIn);
     }
+    private int delay;
     @Override
     public void tick()
     {
+        super.tick();
+        if (this.delay > 0) {
+            this.delay--;
+        } else {
+            this.kill();
+        }
+    }
 
+    public void setDelay(int delay) {
+        this.delay = delay;
     }
 
     @Override

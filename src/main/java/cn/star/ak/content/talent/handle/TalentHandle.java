@@ -34,7 +34,7 @@ public class TalentHandle {
         return true;
     }
     private static final WeightedUtil<Integer> weightedUtil = new WeightedUtil<>(Map.of(
-            1,97f,
+            1,97.0f,
             2,2.5f,
             3,0.5f
     ));
@@ -75,7 +75,7 @@ public class TalentHandle {
                 }
                 LivingEntity entity = event.getEntity();
                 if (playerVariables.talent == 2){
-                    if (entity.getType() == Config.up_s_boss){
+                    if (Config.up_s_boss.contains(entity.getType())){
                         playerVariables.talent =3;
                         player.sendSystemMessage(Component.translatable("message.ak.talent.up_S"));
                     }

@@ -7,6 +7,8 @@ import cn.star.ak.regsitry.AKEntiteRegristrys;
 import mods.flammpfeil.slashblade.capability.concentrationrank.ConcentrationRankCapabilityProvider;
 import mods.flammpfeil.slashblade.util.KnockBacks;
 import mods.flammpfeil.slashblade.util.VectorHelper;
+import net.minecraft.server.MinecraftServer;
+import net.minecraft.server.level.ServerLevel;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.util.Mth;
 import net.minecraft.world.entity.LivingEntity;
@@ -77,16 +79,14 @@ public class Dragon {
 
                 ss.setRoll(0);
                 ss.setDamage(0);
-                // force riding
                 ss.startRiding(playerIn, true);
-                ss.setDelay(20 );
+                ss.setDelay(20);
                 double xOffset = 0;
                 double yOffset = 3;
                 double zOffset = 0;
                 ss.setPos(playerIn.position().add(xOffset, yOffset, zOffset));
 
                 playerIn.playSound(SoundEvents.CHORUS_FRUIT_TELEPORT, 0.2F, 1.45F);
-
             }
 
 
