@@ -30,13 +30,13 @@ public class Config {
     public static final ForgeConfigSpec.ConfigValue<List<String>> UP_S_BOSS = (ForgeConfigSpec.ConfigValue<List<String>>) (Object) BUILDER
             .comment("血统等级A进阶需击杀的Boss;Bosses that need to be killed for advanced bloodline level A.")
             .defineList("up_s_bossr",
-                    Arrays.asList("minecraft:warden", "modid:custom_entity"),
+                    Arrays.asList("minecraft:warden", "minecraft:warden"),
                     obj -> obj instanceof String);
     @SuppressWarnings("unchecked")
     public static final ForgeConfigSpec.ConfigValue<List<String>> DROP_DRAGON_CROSS_BOSS = (ForgeConfigSpec.ConfigValue<List<String>>) (Object) BUILDER
             .comment("龙骨十字的可掉落对象;Dropable objects of Dragon Cross.")
             .defineList("drop_dragon_cross_boss",
-                    Arrays.asList("minecraft:ender_dragon", "modid:custom_entity"),
+                    Arrays.asList("minecraft:ender_dragon", "minecraft:ender_dragon"),
                     obj -> obj instanceof String);
 
     public static final ForgeConfigSpec.ConfigValue<String> DROP_World_Tree_BOSS = BUILDER.comment("世界树枝丫的可掉落对象;Dropable Objects on World Branches.").define("drop_world_tree_boss", "minecraft:warden");
