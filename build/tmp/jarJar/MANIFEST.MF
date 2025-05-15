@@ -3,8 +3,8 @@ Specification-Title: ak
 Specification-Vendor: TheFlareStar,dinzeer
 Specification-Version: 1
 Implementation-Title: alchemykingdom
-Implementation-Version: 1.0.6
+Implementation-Version: 1.1.0
 Implementation-Vendor: TheFlareStar,dinzeer
-Implementation-Timestamp: 2025-03-14T15:57:23+0800
+Implementation-Timestamp: 2025-05-11T07:56:50+0800
 MixinConfigs: ak.mixins.json
 

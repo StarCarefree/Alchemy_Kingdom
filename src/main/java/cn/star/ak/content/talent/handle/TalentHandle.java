@@ -85,10 +85,10 @@ public class TalentHandle {
                         Level level = entity.level();
                         level.addFreshEntity(new ItemEntity(level,entity.getX(),entity.getY(),entity.getZ(), AKItems.DRAGON_CROSS.get().getDefaultInstance()));
                     }
-                    if ( entity.getType() == Config.drop_world_tree_boss){
-                        Level level = entity.level();
-                        level.addFreshEntity(new ItemEntity(level,entity.getX(),entity.getY(),entity.getZ(), AKItems.worldtree.get().getDefaultInstance()));
-                    }
+                }
+                if (entity.getType() == Config.drop_world_tree_boss && Math.random() <= 0.35){
+                    Level level = entity.level();
+                    level.addFreshEntity(new ItemEntity(level,entity.getX(),entity.getY(),entity.getZ(), AKItems.worldtree.get().getDefaultInstance()));
                 }
                 playerVariables.syncPlayerVariables(player);
             }

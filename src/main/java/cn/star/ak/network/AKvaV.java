@@ -79,6 +79,7 @@ public class AKvaV {
             clone.talent = original.talent;
             clone.killCount = original.killCount;
             clone.mixin = original.mixin;
+            clone.baoxue = original.baoxue;
             if (!event.isWasDeath())
             {
 
@@ -250,6 +251,7 @@ public class AKvaV {
     public static class PlayerVariables {
         public int talent =0;
         public boolean mixin =false;
+        public boolean baoxue =true;
         public int killCount =0;
 
         public void syncPlayerVariables(Entity entity) {
@@ -262,6 +264,7 @@ public class AKvaV {
 
             nbt.putInt("talent",talent);
             nbt.putBoolean("mixin",mixin);
+            nbt.putBoolean("baoxue",baoxue);
             nbt.putInt("killCount",killCount);
             return nbt;
         }
@@ -270,6 +273,7 @@ public class AKvaV {
             CompoundTag nbt = (CompoundTag) Tag;
             talent = nbt.getInt("talent");
             mixin = nbt.getBoolean("mixin");
+            baoxue = nbt.getBoolean("baoxue");
             killCount = nbt.getInt("killCount");
         }
     }
@@ -298,6 +302,7 @@ public class AKvaV {
                     variables.talent = message.data.talent;
                     variables.killCount = message.data.killCount;
                     variables.mixin = message.data.mixin;
+                    variables.baoxue = message.data.baoxue;
 
 
                 }

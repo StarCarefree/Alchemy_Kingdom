@@ -64,7 +64,7 @@ public class TimeZero {
 
 
             if (!_level.isClientSide()) {
-                _level.playSound(null, BlockPos.containing(x, y, z), AlchemyKingdom.SoundAbout.TIME_STOP.get(), SoundSource.NEUTRAL, 1, 1);
+                _level.playSound(null, BlockPos.containing(x, y, z), AlchemyKingdom.SoundAbout.TIME_STOP.get(), SoundSource.NEUTRAL, 0.5f, 1);
             } else {
                 _level.playLocalSound(x, y, z, AlchemyKingdom.SoundAbout.TIME_STOP.get(), SoundSource.NEUTRAL, 1, 1, false);
             }

@@ -5,11 +5,12 @@
   "compatibilityLevel": "JAVA_17",
   "refmap": "ak.refmap.json",
   "mixins": [
-    "SwordTypeMixin",
-    "RankMixin"
+    "RankMixin",
+    "SwordTypeMixin"
   ],
   "client": [
     "ClientEntityMixin",
+    "InventoryScreenMixin",
     "MinecraftMixin"
   ],
   "injectors": {

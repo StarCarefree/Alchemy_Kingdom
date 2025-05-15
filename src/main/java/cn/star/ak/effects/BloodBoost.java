@@ -59,7 +59,8 @@ public class BloodBoost extends MobEffect {
                 }
             }else {
                 if (!p.getPersistentData().contains(cooldownTagName) ||p.getPersistentData().getInt(cooldownTagName)<=0) {
-                    if (p.getCapability(AKvaV.PLAYER_VARIABLES_CAPABILITY).orElse(null).mixin) {
+                    AKvaV.PlayerVariables playerVariables = p.getCapability(AKvaV.PLAYER_VARIABLES_CAPABILITY).orElse(null);
+                    if (playerVariables.mixin && playerVariables.baoxue) {
                         Integer a = RandomDamageLevel.selectRandomKeyBasedOnWeights();
                         if (a != -1) {
                             p.addEffect(new MobEffectInstance(AlchemyKingdom.EffectAbout.BLOOD_BOOST.get(), 42 * 20, a));

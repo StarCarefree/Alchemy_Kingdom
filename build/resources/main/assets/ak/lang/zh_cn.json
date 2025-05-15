@@ -48,5 +48,9 @@
   "slash_art.ak.windy_eyes": "风王之瞳",
   "ak.sword_type.fate": "因",
   "ak.sword_type.king": "白",
-  "ak.sword_type.sin": "黑"
+  "key.ak.baoxue": "暴雪开关",
+  "ak.sword_type.sin": "黑",
+  "gui.ak.blood": "血统: %s",
+  "message.ak.baoxue.on": "暴血 开",
+  "message.ak.baoxue.off": "暴血 关"
 }

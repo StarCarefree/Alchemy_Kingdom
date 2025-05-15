@@ -3,6 +3,7 @@ package cn.star.ak;
 import cn.star.ak.effects.BloodBoost;
 import cn.star.ak.effects.ICE;
 import cn.star.ak.init.AKItems;
+import cn.star.ak.init.BaoXueMessage;
 import cn.star.ak.regsitry.AKEntiteRegristrys;
 import cn.star.ak.regsitry.AKcomboRegsitry;
 import cn.star.ak.regsitry.AKslashartRegsitry;
@@ -124,7 +125,7 @@ public class AlchemyKingdom {
     }
     public AlchemyKingdom() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
-
+        INSTANCE.registerMessage(messageID++,BaoXueMessage.class, BaoXueMessage::encode, BaoXueMessage::decode, BaoXueMessage::handle);
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
         LangUtil.registerAddlang();

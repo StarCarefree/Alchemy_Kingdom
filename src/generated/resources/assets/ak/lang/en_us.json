@@ -46,5 +46,9 @@
   "slash_art.ak.the_emperor_of_ice": "The Emperor of Ice",
   "slash_art.ak.the_wrath_of_indra": "The Wrath of Indra",
   "slash_art.ak.time_zero": "time zero",
-  "slash_art.ak.windy_eyes": "The eyes of windy"
+  "slash_art.ak.windy_eyes": "The eyes of windy",
+  "message.ak.baoxue.on": "",
+  "message.ak.baoxue.off": "",
+  "message.ak.baoxue.off": "A",
+  "message.ak.baoxue.on": "A"
 }
