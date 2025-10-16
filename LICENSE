@@ -1,27 +1,256 @@
-Star Carefree Artworks Usage Protocol (SCAUP)
+星遥工坊作品使用协议 (Star Carefree Artwork Usage Protocol - SCAUP)
 Copyright (c) 2024-2025 Star Carefree
 
-Important Information  
-This protocol is designed to protect your privacy, property, and related account security, as well as to prevent unnecessary troubles. By starting to use or play Star Carefree (hereinafter referred to as "SC") related works, you confirm that you fully understand and agree to comply with all the terms in this protocol.**
+重要提示
+本协议是您与星遥工坊（以下简称"SC"）之间关于SC作品使用的法律约定，旨在明确知识产权归属、规范使用行为并界定双方权利义务。请在使用SC作品前务必完整阅读本协议。您的使用行为即视为对本协议全部条款的认可，若您不同意协议内容，请勿使用相关作品。
 
-Protocol Terms
-· You have full rights to use, play, and share SC-related works for personal, non-commercial purposes within reasonable limits[^1];
-· SC's works are prohibited from non-official plagiarism or adaptations[^2];
-· If you use or play non-officially published works[^3], and ignore internal warnings leading to privacy leakage, property loss, or other personal safety issues, SC will not be held responsible;
-· When you reference SC's open projects[^4] or its code in your own works, you must follow the respective project protocol. If the copyright protocol in the source code repository conflicts with this protocol, the source code repository's copyright protocol takes precedence;
-· You do not have the right to use SC-related works for any commercial activity[^5] without SC's official permission;
-· When the internal protocol of SC-related works conflicts with the terms of this protocol, the internal protocol takes priority[^6];
-· When SC collaborates with third parties, both the third-party protocol and this protocol are effective simultaneously and hold equal priority. Works with multiple protocols will clearly indicate the applicable protocol contents;
-· SC reserves the right to modify this protocol and related legal rights. The final interpretation of this protocol is owned by Star Carefree.
+第一章 定义与术语
 
-Additional Notes
-· If SC-related works are in collaboration with third parties and multiple protocols are involved, SC will clearly mark the applicable rules or release explanatory notes in the relevant works;
-· Modifications to this protocol will be announced through the official website or official release platforms. If you continue using SC-related works after the modification, it will be deemed that you have agreed to the modified protocol.
+SC作品
+指由星遥工坊独立开发或经授权发布的适用于Minecraft游戏的软件、模组、插件、地图、资源包、行为包、代码、美术素材、音频、视频及其他形式的数字化创作成果，包括但不限于SC官方版本、测试版本、更新版本及衍生内容。
 
-Foot Notes
-[^1]: You have the following rights without violating this protocol: (1) Use and play SC-related works for personal entertainment purposes; (2) Download and share official SC works through legal channels in a non-commercial environment. Do not modify or remove copyright information when sharing.
-[^2]: Unauthorized actions include: (1) Plagiarizing, stealing, or adapting SC-related works into other forms; (2) Using SC's name in any manner to publish content. Note: When creating derivative works, SC's copyright or rights must not be infringed upon.
-[^3]: Official release channels include: [Minebbs](https://www.minebbs.com/members/51515/), [BUILTBYBIT](https://builtbybit.com/creators/theflarestar.382392), [MCmod](https://www.mcmod.cn/author/32789.html), [Modrinth](https://modrinth.com/organization/star-carefree), [Curseforge](https://www.curseforge.com/members/theflarestar/projects). Any content not published via these platforms is considered "non-official".
-[^4]: Open projects refer to those published through the official release channels mentioned above.
-[^5]: Unauthorized commercial activities include: (1) Directly selling, leasing, or transferring SC-related works or their adaptations; (2) Using SC-related works in commercial projects in any form. Note: Personal live streaming and content creation with commercial benefits are not considered commercial activities, but must clearly indicate the source of SC works and comply with other relevant terms.
-[^6]: In case of a conflict between the internal protocol of SC-related works and this protocol, the internal protocol takes precedence and the conflicting terms will be clearly explained within the relevant works.
+用户
+指通过官方渠道获取、安装、使用、传播或展示SC作品的自然人、法人或其他组织（以下统称"用户"）。
+
+官方发布渠道
+特指SC授权的正式分发平台，包括但不限于：
+Minebbs (https://www.minebbs.com/members/51515/) | BUILTBYBIT (https://builtbybit.com/creators/theflarestar.382392) | MCmod (https://www.mcmod.cn/author/32789.html) | Modrinth (https://modrinth.com/organization/star-carefree) | Curseforge (https://www.curseforge.com/members/theflarestar/projects)
+注：通过非官方渠道获取、传播或使用SC作品的行为均视为违约
+
+商业用途
+指以直接或间接获取经济利益为目的的行为，包括但不限于：出售、出租、广告植入、付费订阅、商业演出、品牌合作、盈利性项目开发或通过SC作品引流获取收益。
+
+衍生作品
+指基于SC作品进行改编、翻译、汇编、修改、二次创作形成的新内容，包括但不限于模组二次开发、地图改编、素材衍生设计、剧情扩展等。
+
+内容创作者
+指通过视频、直播、图文、直播等形式公开展示SC作品的个人或团队，包括但不限于主播、UP主、自媒体创作者、攻略作者等。
+
+第二章 知识产权条款
+
+2.1 权利归属
+- SC作品的所有知识产权（包括但不限于版权、商标权、专利权、商业秘密及其他专有权利）均归星遥工坊或其授权方所有，用户仅获得本协议明确授予的有限使用权。
+- SC作品中涉及的第三方素材（如开源组件、合作方资源）适用其独立许可协议，用户需同时遵守对应条款，SC不对此类第三方素材承担责任。
+
+2.2 许可范围
+非商业使用许可
+用户可在遵守本协议的前提下，为个人学习、研究或娱乐目的下载、安装及运行SC作品，并可在非商业场景下免费分享未修改的官方版本，但需完整保留原始版权声明及所有权利标识。
+
+禁止商业使用
+未经SC书面授权（邮件或签署协议），严禁将SC作品或其衍生内容用于任何商业活动，包括但不限于：
+- 将作品或素材纳入付费软件、服务或会员体系
+- 在商业广告、品牌推广、线下展览中使用SC作品元素
+- 以SC作品为基础开发收费模组、插件或衍生产品
+- 未经授权使用SC品牌标识进行商业合作
+
+第三章 用户权利与义务
+
+3.1 合理使用规则
+用户可在非商业环境下对SC作品进行非实质性修改（如个性化配置、参数调整），但在传播时修改内容不得包括：
+- 破坏作品完整性或核心功能
+- 移除或篡改版权声明、权利标识及官方信息
+- 引入恶意代码、病毒或安全漏洞
+- 添加违反法律法规或公序良俗的内容
+
+3.2 二次创作规范
+允许基于SC作品进行非商业性二次创作，但需满足以下条件：
+- 明确标注原始作品来源（"星遥工坊"）及SC版权信息
+- 不得误导公众认为衍生作品为SC官方发布或背书
+- 衍生作品需独立发布，不得与SC官方版本捆绑传播或替换官方版本
+- 衍生作品的知识产权归创作方所有，但行使权利不得侵犯SC原始作品的知识产权
+
+若二次创作涉及SC公开项目（如开源代码），需同时遵守该项目的特定许可协议（如MIT、GPL等），若与本协议冲突，以具体项目协议为准。
+
+3.3 禁止行为清单
+严禁以下侵犯SC知识产权或损害用户权益的行为：
+- 反向工程：对SC作品进行反编译、反汇编、破解、调试或试图获取底层代码逻辑
+- 抄袭套作：复制SC作品的核心架构、美术设计、剧情设定、功能逻辑等形成实质性相似内容
+- 冒用名义：未经授权使用"星遥工坊""Star Carefree"等品牌标识、LOGO或名义进行内容发布
+- 传播非官方版本：通过非官方渠道分发SC作品或修改版，包括但不限于盗版、恶意篡改版本、破解版
+- 滥用作品：利用SC作品传播违法信息、骚扰他人或从事其他违反法律法规的活动
+
+第四章 内容创作者特别条款
+
+4.1 录制与展示授权
+- 免费授权：SC特此授予内容创作者非排他性、免版税的权利，以录制、编辑、发布及公开传播包含SC作品的视频、直播、图文或其他形式的内容，无论是否通过平台广告获得收益。
+
+授权条件
+- 需在内容的显著位置（如视频开头10秒内、描述区顶部）标注SC作品名称及官方发布渠道链接
+- 不得对SC作品进行恶意修改、歪曲性展示或虚假宣传
+- 不得在内容中宣称SC作品为自创内容或隐瞒原始来源
+
+4.2 收益模式说明
+- 广告收益：内容创作者可通过平台广告分成、弹幕打赏等方式从包含SC作品的内容中获取收益，无需另行获得SC许可。
+- 付费内容限制：严禁将SC作品或其衍生内容作为付费观看、会员专属内容的核心卖点（核心卖点指内容价值主要依赖SC作品实现），但允许在免费内容中插入合规的付费推广信息（如赞助、会员招募）。
+- 合作推广：若需使用SC品牌标识、作品元素进行商业合作推广或广告植入，需提前获得SC书面授权。
+
+第五章 风险与责任界定
+
+5.1 非官方内容风险
+- 用户需自行承担使用非官方渠道获取的SC作品（包括第三方修改版、破解版）的全部风险，SC对由此导致的设备损坏、数据丢失、隐私泄露、账号封禁等问题不承担责任。
+- SC官方仅对通过正规渠道发布的作品提供技术支持，非官方版本引发的问题不在支持范围内。
+- 通过非官方渠道获取或使用SC作品的行为视为对本协议的违反，SC有权追究相关责任。
+
+5.2 免责声明
+- SC作品按"现状"提供，不提供任何形式的担保，包括但不限于适销性、特定用途适用性及不侵权担保。
+- 除非法律强制规定，SC对用户因使用或无法使用SC作品导致的直接、间接、附带或后果性损失（包括但不限于商业利润损失、数据丢失、机会成本损失）不承担责任。
+- 因用户违反本协议导致第三方索赔的，由用户自行承担全部责任；SC因此遭受损失的，有权向用户追偿。
+
+5.3 协议终止
+若用户违反本协议任一条款，SC有权立即终止其使用权限，且无需提前通知或承担赔偿责任。终止后，用户需立即删除所有SC作品副本及衍生内容，并停止相关传播行为。
+
+第六章 其他条款
+
+6.1 协议变更
+- SC保留随时修改本协议的权利，修改后的协议内容将通过官方渠道（优先通过MCmod工坊页面）发布公告，发布公告3天后新版协议正式生效，上一版本自动失效。
+- 新版协议详情请以MCmod工坊页面（https://www.mcmod.cn/author/32789.html）最新公示内容为准。
+- 用户在新版协议生效后继续使用SC作品，即视为接受修订后的条款；若不同意可停止使用并删除相关内容。
+
+6.2 法律适用
+- 本协议适用中华人民共和国法律（不含港澳台地区），因本协议引起的争议，由SC主要运营地有管辖权的人民法院管辖。
+- 若协议某一条款被认定无效，不影响其他条款的法律效力；无效条款将按法律要求调整至最接近原意图的有效状态。
+
+6.3 附加协议
+- 特定SC作品可能附带独立许可协议（如内部协议、第三方合作协议），此类协议在对应作品范围内优先适用，SC将在作品发布页面明确说明冲突解决规则。
+
+附件：官方渠道与商业行为细则
+
+| 分类             | 具体说明                                                                 |
+|------------------|--------------------------------------------------------------------------|
+| 官方发布渠道     | 见"第一章 定义"中列举的平台，其他渠道（如非授权论坛、第三方网盘、盗版网站等）均为非官方        |
+| 商业行为例外     | 个人非盈利直播、非商业性内容创作（如自媒体分享、免费攻略）可不视为商业活动，但需标注来源 |
+| 授权申请流程     | 商业使用需通过MCmod工坊私信或官方邮箱提交书面申请（需说明使用场景、期限、收益模式及使用范围），审核通过并签署书面协议后方可实施                       |
+
+最终声明
+本协议的解释权归星遥工坊所有。如有任何疑问，可通过官方社区或MCmod工坊私信联系我们。
+
+
+
+
+
+
+Star Carefree Artwork Usage Protocol (SCAUP)
+Copyright (c) 2024-2025 Star Carefree
+
+Important Notice
+This Agreement is a legal agreement between you and Star Carefree (hereinafter referred to as "SC") regarding the use of SC Artworks. It aims to clarify intellectual property ownership, regulate usage behavior, and define the rights and obligations of both parties. Please read this Agreement in full before using SC Artworks. Your use of the Artworks shall be deemed as your acceptance of all terms of this Agreement. If you do not agree with the contents of this Agreement, please do not use the relevant Artworks.
+
+Chapter 1 Definitions and Terms
+
+SC Artworks
+Refers to software, mods, plugins, maps, resource packs, behavior packs, code, art materials, audio, video, and other digital creative works applicable to the Minecraft game, independently developed or authorized for release by Star Carefree, including but not limited to official versions, beta versions, updated versions, and derivative contents of SC.
+
+User
+Refers to natural persons, legal persons, or other organizations that obtain, install, use, distribute, or display SC Artworks through official channels (collectively referred to as "Users").
+
+Official Release Channels
+Specifically refers to officially authorized distribution platforms, including but not limited to:
+Minebbs (https://www.minebbs.com/members/51515/) | BUILTBYBIT (https://builtbybit.com/creators/theflarestar.382392) | MCmod (https://www.mcmod.cn/author/32789.html) | Modrinth (https://modrinth.com/organization/star-carefree) | Curseforge (https://www.curseforge.com/members/theflarestar/projects)
+Note: Obtaining, distributing, or using SC Artworks through unofficial channels is deemed a breach of this Agreement
+
+Commercial Use
+Refers to acts aimed at obtaining economic benefits directly or indirectly, including but not limited to: sale, rental, advertising placement, paid subscription, commercial performance, brand cooperation, profit-making project development, or obtaining benefits through traffic derived from SC Artworks.
+
+Derivative Works
+Refers to new contents formed by adapting, translating, compiling, modifying, or secondary creation based on SC Artworks, including but not limited to secondary development of mods, map adaptation, derivative design of materials, plot expansion, etc.
+
+Content Creators
+Refers to individuals or teams that publicly display SC Artworks through videos, live broadcasts, graphics, streams, etc., including but not limited to anchors, UP owners, self-media creators, guide authors, etc.
+
+Chapter 2 Intellectual Property Terms
+
+2.1 Ownership of Rights
+- All intellectual property rights of SC Artworks (including but not limited to copyright, trademark rights, patent rights, trade secrets, and other exclusive rights) belong to Star Carefree or its authorized parties. Users only obtain the limited right to use as explicitly granted by this Agreement.
+- Third-party materials involved in SC Artworks (such as open-source components, partner resources) are subject to their independent license agreements. Users must also comply with the corresponding terms, and SC shall not be liable for such third-party materials.
+
+2.2 Scope of License
+Non-Commercial Use License
+Users may, on the premise of complying with this Agreement, download, install, and run SC Artworks for personal study, research, or entertainment purposes, and may freely share unmodified official versions in non-commercial scenarios, provided that all original copyright notices and rights identifiers are completely retained.
+
+Prohibition of Commercial Use
+Without the written authorization of SC (via email or signed agreement), it is strictly prohibited to use SC Artworks or their derivative contents for any commercial activities, including but not limited to:
+- Incorporating works or materials into paid software, services, or membership systems
+- Using elements of SC Artworks in commercial advertisements, brand promotion, or offline exhibitions
+- Developing paid mods, plugins, or derivative products based on SC Artworks
+- Using SC brand logos for commercial cooperation without authorization
+
+Chapter 3 User Rights and Obligations
+
+3.1 Rules for Reasonable Use
+Users may make non-substantial modifications to SC Artworks in non-commercial environments (such as personalized configurations, parameter adjustments), but the modified content shall not include the following when distributed:
+- Destroying the integrity or core functions of the works
+- Removing or tampering with copyright notices, rights identifiers, or official information
+- Introducing malicious code, viruses, or security vulnerabilities
+- Adding content that violates laws, regulations, or public order and good morals
+
+3.2 Specifications for Secondary Creation
+Non-commercial secondary creation based on SC Artworks is permitted, provided that the following conditions are met:
+- Clearly mark the source of the original work ("Star Carefree") and SC copyright information
+- Not misleading the public that the derivative work is officially released or endorsed by SC
+- Derivative works must be released independently and shall not be distributed bundled with or replace official SC versions
+- The intellectual property rights of derivative works belong to the creator, but the exercise of rights shall not infringe on the intellectual property rights of SC's original works
+
+If secondary creation involves SC's public projects (such as open-source code), the specific license agreement of the project (such as MIT, GPL, etc.) shall be followed simultaneously. In case of conflict with this Agreement, the specific project agreement shall prevail.
+
+3.3 List of Prohibited Acts
+The following acts that infringe on SC's intellectual property rights or damage users' rights and interests are strictly prohibited:
+- Reverse engineering: Decompiling, disassembling, cracking, debugging SC Artworks or attempting to obtain underlying code logic
+- Plagiarism: Copying the core architecture, art design, plot settings, functional logic of SC Artworks to form substantially similar content
+- False representation: Using "Star Carefree" brand logos or names for content release without authorization
+- Distributing unofficial versions: Distributing SC Artworks or modified versions through unofficial channels, including but not limited to pirated versions, maliciously tampered versions, cracked versions
+- Abuse of works: Using SC Artworks to spread illegal information, harass others, or engage in other activities in violation of laws and regulations
+
+Chapter 4 Special Terms for Content Creators
+
+4.1 Authorization for Recording and Display
+- Free Authorization: SC hereby grants Content Creators a non-exclusive, royalty-free right to record, edit, release, and publicly distribute videos, live broadcasts, graphics, or other forms of content containing SC Artworks, whether or not revenue is obtained through platform advertising.
+
+Authorization Conditions
+- The name of SC Artworks and links to official release channels must be marked in prominent positions of the content (such as within the first 10 seconds of the video, top of the description area)
+- No malicious modification, distorted display, or false promotion of SC Artworks
+- No claim that SC Artworks are self-created content or conceal the original source in the content
+
+4.2 Description of Revenue Models
+- Advertising Revenue: Content Creators may obtain revenue from content containing SC Artworks through platform advertising sharing, bullet screen rewards, etc., without obtaining additional authorization from SC.
+- Restrictions on Paid Content: It is strictly prohibited to use SC Artworks or their derivative contents as the core selling point of paid viewing or member-exclusive content (core selling point refers to content value mainly relying on SC Artworks), but inserting compliant paid promotion information (such as sponsorships, membership recruitment) in free content is allowed.
+- Cooperative Promotion: If it is necessary to use SC brand logos or artwork elements for commercial cooperative promotion or advertising placement, prior written authorization from SC must be obtained.
+
+Chapter 5 Risk and Liability Definition
+
+5.1 Risks of Unofficial Content
+- Users shall bear full risks for using SC Artworks obtained through unofficial channels (including third-party modified versions, cracked versions). SC shall not be liable for device damage, data loss, privacy leakage, account ban, etc., caused thereby.
+- SC officially only provides technical support for works released through formal channels; issues caused by unofficial versions are not within the scope of support.
+- Obtaining or using SC Artworks through unofficial channels is deemed a breach of this Agreement, and SC has the right to pursue relevant liabilities.
+
+5.2 Disclaimer
+- SC Artworks are provided "as is" without any form of warranty, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+- Unless required by law, SC shall not be liable for direct, indirect, incidental, or consequential damages (including but not limited to loss of commercial profits, data loss, opportunity cost loss) caused by Users' use or inability to use SC Artworks.
+- If a third party claims compensation due to a User's breach of this Agreement, the User shall bear full responsibility; SC has the right to claim compensation from the User for losses suffered thereby.
+
+5.3 Termination of Agreement
+If a User breaches any term of this Agreement, SC has the right to immediately terminate its right to use without prior notice or liability for compensation. After termination, the User must immediately delete all copies of SC Artworks and derivative contents and stop relevant distribution activities.
+
+Chapter 6 Other Terms
+
+6.1 Agreement Modification
+- SC reserves the right to modify this Agreement at any time. The modified Agreement content will be announced through official channels (preferably through the MCmod workshop page). The new version of the Agreement will officially take effect 3 days after the announcement is published, and the previous version will automatically become invalid.
+- For details of the new version, please refer to the latest announcement on the MCmod workshop page (https://www.mcmod.cn/author/32789.html).
+- Users' continued use of SC Artworks after the new version of the Agreement takes effect shall be deemed as acceptance of the revised terms; if not agreed, Users may stop using and delete relevant contents.
+
+6.2 Applicable Law
+- This Agreement shall be governed by the laws of the People's Republic of China (excluding Hong Kong, Macao, and Taiwan regions). Disputes arising from this Agreement shall be under the jurisdiction of the people's court with jurisdiction in the main place of operation of SC.
+- If a term of the Agreement is deemed invalid, it shall not affect the legal effect of other terms; invalid terms shall be adjusted to the valid state closest to the original intention in accordance with legal requirements.
+
+6.3 Additional Agreements
+- Specific SC Artworks may be accompanied by independent license agreements (such as internal agreements, third-party cooperation agreements). Such agreements shall prevail within the scope of the corresponding works, and SC will clearly explain conflict resolution rules on the work release page.
+
+Appendix: Details of Official Channels and Commercial Behaviors
+
+| Category              | Specific Description                                                                 |
+|-----------------------|--------------------------------------------------------------------------------------|
+| Official Release Channels | The platforms listed in "Chapter 1 Definitions"; other channels (such as unauthorized forums, third-party cloud disks, pirated websites, etc.) are unofficial |
+| Exceptions to Commercial Behavior | Personal non-profit live broadcasts, non-commercial content creation (such as self-media sharing, free guides) are not deemed commercial activities, but sources must be marked |
+| Authorization Application Process | Commercial use requires submitting a written application via MCmod workshop private message or official email (including description of usage scenario, duration, revenue model, and scope of use); implementation is allowed only after approval and signing of a written agreement |
+
+Final Statement
+The right to interpret this Agreement belongs to Star Carefree. For any questions, you can contact us through the official community or MCmod workshop private message.

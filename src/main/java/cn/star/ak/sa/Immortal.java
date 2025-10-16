@@ -36,8 +36,8 @@ public class Immortal {
                             return;
                 }
             }
-            playerIn.addEffect(new MobEffectInstance(MobEffects.DAMAGE_BOOST, 140, 6));
-            playerIn.addEffect(new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, 140, 3));
+            playerIn.addEffect(new MobEffectInstance(MobEffects.DAMAGE_BOOST, 180, 6));
+            playerIn.addEffect(new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, 180, 3));
 
             cooldownMap.put(playerIn, currentTime);
         }

@@ -26,7 +26,7 @@ public class AKClient {
         event.registerEntityRenderer(AKEntiteRegristrys.cwee, CrazyWindyEyesRender::new);
         event.registerEntityRenderer(AKEntiteRegristrys.SD, NoneMoonRenderer::new);
         event.registerEntityRenderer(AKEntiteRegristrys.LC, CrazyWindyEyesRender::new);
-        event.registerEntityRenderer(AKEntiteRegristrys.DragonS, DragonRender::new);
+        event.registerEntityRenderer(AKEntiteRegristrys.DragonS,DragonRender::new );
         event.registerEntityRenderer(AKEntiteRegristrys.EntitySwordS, DragonRender::new);
         event.registerEntityRenderer(AKEntiteRegristrys.TheEmperorofIceS, CrazyWindyEyesRender::new);
         event.registerEntityRenderer(AKEntiteRegristrys.EntityZenith12thsword, SummonedSwordRenderer::new);

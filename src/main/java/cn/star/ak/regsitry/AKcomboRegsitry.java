@@ -208,10 +208,8 @@ public class AKcomboRegsitry {
                         .addTickAction(ComboState.TimeLineTickAction.getBuilder()
                                 .put(2, (entityIn) -> AttackManager.doSlash(entityIn, -30F, Vec3.ZERO, false, false
                                         , 1))
-                                .put(3,(entityIn) -> Dragon.doSlash(entityIn, 0, 20, Vec3.ZERO, false, 12, 1f, 2f, 2, 16711680))
-                                .put(4,(entityIn) -> Dragon.doSlash(entityIn, 0, 20, Vec3.ZERO, false, 12, 1f, 2f, 1, 0))
-                                .put(5,(entityIn) -> Dragon.doSlash(entityIn, 0, 20, Vec3.ZERO, false, 12, 1f, 2f, 1, 0))
-                                .put(6,(entityIn) -> Dragon.doSlash(entityIn, 0, 20, Vec3.ZERO, false, 12, 1f, 2f, 1, 0))
+                                .put(3,(entityIn) -> Dragon.doSlash(entityIn, 0, 20, Vec3.ZERO, false, 17, 1f, 2f, 2, 16711680))
+                                .put(4,(entityIn) -> Dragon.doSlash(entityIn, 0, 20, Vec3.ZERO, false, 17, 1f, 2f, 1, 16711680 ))
                                 .build())
                         .addHitEffect(StunManager::setStun)
                         ::build);

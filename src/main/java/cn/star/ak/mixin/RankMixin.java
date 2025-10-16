@@ -3,8 +3,12 @@ package cn.star.ak.mixin;
 import cn.star.ak.network.AKvaV;
 import mods.flammpfeil.slashblade.capability.concentrationrank.ConcentrationRank;
 import mods.flammpfeil.slashblade.capability.concentrationrank.IConcentrationRank;
+import mods.flammpfeil.slashblade.network.NetworkManager;
+import mods.flammpfeil.slashblade.network.RankSyncMessage;
+import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.player.Player;
+import net.minecraftforge.network.PacketDistributor;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.injection.At;
@@ -22,7 +26,7 @@ public abstract class RankMixin implements IConcentrationRank {
         if (entityIn instanceof Player player) {
             var talent = player.getCapability(AKvaV.PLAYER_VARIABLES_CAPABILITY,null).orElseGet(null).talent;
             if (!canSkinCheek(talent,level)) {
-                return;
+                point = 0;
             }
         }
         IConcentrationRank.super.addRankPoint(entityIn, point);
@@ -34,7 +38,7 @@ public abstract class RankMixin implements IConcentrationRank {
 //    }
     private boolean canSkinCheek(int talent,int level){
         if (talent>=4) return true;
-        if (talent == 3 &&level<=5 )return true;
+        if (talent == 3 && level<=5 )return true;
         if (talent ==2 && level<=4)return true;
         if (talent ==1 && level<=3)return true;
         if (talent ==0 && level<=2)return true;

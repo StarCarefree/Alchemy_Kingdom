@@ -12,8 +12,11 @@ import net.minecraft.server.level.ServerLevel;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.util.Mth;
 import net.minecraft.world.entity.LivingEntity;
+import net.minecraft.world.entity.ai.attributes.Attributes;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.phys.Vec3;
+
+import java.awt.*;
 
 public class Dragon {
     public static void doSlash(LivingEntity playerIn, float roll, int lifetime, Vec3 centerOffset,
@@ -41,36 +44,39 @@ public class Dragon {
                 .add(playerIn.getLookAngle().scale(centerOffset.z));
         {
             Level worldIn = playerIn.level();
-            DragonEntity drive = new DragonEntity(AKEntiteRegristrys.DragonS, playerIn.level());
 
-            playerIn.level().addFreshEntity(drive);
-            float speed = Mth.randomBetween(drive.level().getRandom(), minSpeed, maxSpeed);
+            if (count==1) {
+                for (int i = 0; i < 4; i++) {
+                    DragonEntity drive = new DragonEntity(AKEntiteRegristrys.DragonS, playerIn.level());
 
-            drive.setPos(pos.x, pos.y, pos.z);
-            drive.setDamage(damage);
-            drive.setSpeed(speed);
-            drive.shoot(playerIn.getLookAngle().x, playerIn.getLookAngle().y, playerIn.getLookAngle().z, drive.getSpeed(), 0);
+                    playerIn.level().addFreshEntity(drive);
+                    float speed = Mth.randomBetween(drive.level().getRandom(), minSpeed, maxSpeed);
 
-            drive.setOwner(playerIn);
+                    // 随机位置，但不要离玩家太远
+                    double xOffset = Mth.randomBetween(drive.level().getRandom(), -1.0F, 1.0F);
+                    double yOffset = Mth.randomBetween(drive.level().getRandom(), -1.0F, 1.0F);
+                    double zOffset = Mth.randomBetween(drive.level().getRandom(), -1.0F, 1.0F);
+                    drive.setPos(pos.x + xOffset, pos.y + yOffset, pos.z + zOffset);
 
-            drive.setRotationRoll(roll);
+                    drive.setDamage(damage * playerIn.getAttributeValue(Attributes.ATTACK_DAMAGE));
+                    drive.startRiding(playerIn, true);
+                    drive.setDelay(5);
+                    drive.setSpeed(speed);
+                    drive.shoot(playerIn.getLookAngle().x, playerIn.getLookAngle().y, playerIn.getLookAngle().z, 1, 0);
 
+                    drive.setOwner(playerIn);
 
-            drive.setColor(0);
-            drive.setIsCritical(critical);
-            drive.setKnockBack(knockback);
-            drive.setLifetime(lifetime);
-
-            if (playerIn != null)
-                playerIn.getCapability(ConcentrationRankCapabilityProvider.RANK_POINT)
-                        .ifPresent(rank -> drive.setRank(rank.getRankLevel(playerIn.level().getGameTime())));
-
+                    drive.getPersistentData().putInt("lifeTick", 100);
+                    drive.setColor(Color.red.getRGB());
+                    drive.setIsCritical(critical);
+                }
+            }
 
             if (count==2){
                 EntitySword ss = new EntitySword(AKEntiteRegristrys.EntitySwordS, worldIn);
 
                 worldIn.addFreshEntity(ss);
-
+                ss.getPersistentData().putInt("lifeTick", 60);
                 ss.setIsCritical(false);
                 ss.setOwner(playerIn);
 
@@ -80,13 +86,13 @@ public class Dragon {
                 ss.setRoll(0);
                 ss.setDamage(0);
                 ss.startRiding(playerIn, true);
-                ss.setDelay(20);
+
                 double xOffset = 0;
                 double yOffset = 3;
                 double zOffset = 0;
                 ss.setPos(playerIn.position().add(xOffset, yOffset, zOffset));
 
-                playerIn.playSound(SoundEvents.CHORUS_FRUIT_TELEPORT, 0.2F, 1.45F);
+                playerIn.playSound(SoundEvents.ENDER_DRAGON_SHOOT, 0.2F, 1.45F);
             }
 
 

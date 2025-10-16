@@ -149,7 +149,7 @@ public class AKEntiteRegristrys {
             {
                 EntityType<DragonEntity> entity = DragonS = EntityType.Builder
                         .of(DragonEntity::new, MobCategory.MISC)
-                        .sized(0.9F, 0.9F)
+                        .sized(3.9F, 3.9F)
                         .setTrackingRange(4)
                         .setUpdateInterval(20).setCustomClientFactory(DragonEntity::createInstance)
                         .build(DragonLOC.toString());

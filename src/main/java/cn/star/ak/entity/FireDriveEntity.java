@@ -27,7 +27,7 @@ public class FireDriveEntity extends EntityDrive {
         super.tick();
         if (this.level() instanceof ServerLevel serverLevel){
             serverLevel.sendParticles(ParticleTypes.FLAME,
-                    this.getX(),this.getY(),this.getZ(),10,0.2,0.2,0.2,0.2);
+                    this.getX(),this.getY(),this.getZ(),10,1,1,1,0.01);
         }
 
     }

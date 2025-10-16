@@ -28,4 +28,27 @@
 	#Determining the proud soul cost for summon blade arts.
 	#Range: > 1
 	summon_blade_art_cost = 20
+	#Determining the level cost for refine a slashblade.
+	#Range: > 1
+	refine_level_cost = 1
+	#Determines whether to enable slashblade's self-repair.
+	#If enable, bewitched slashblade will try repair itself, cost hunger & exp.
+	self_repair = true
+	#Determines whether slashblade's self-repair cost experiences.
+	#If enable, self repair will cost player's experiences.
+	self_repair_cost_exp = true
+	#Determining the base exp cost for slashblade's self-repair.
+	#Range: > 1
+	bewitched_exp_cost = 1
+	#Blade Damage: Base Damage × Multiplier.[Default: 1.0D]
+	#Range: 0.0 ~ 1024.0
+	slashblade_damage_multiplier = 1.0
+	#S-Rank Refine Bonus: Each Refine × Multiplier'value Damage.[Default: 1.D]
+	#Range: 0.0 ~ 1024.0
+	refine_damage_multiplier = 1.0
+	#The maximum number of refine of Trapezohedron.[Default: 2147483647(infinity)]
+	#Range: > 200
+	trapezohedron_max_refine = 2147483647
+	#Example: 'minecraft:sharpness', That will prevent the enchantment from dropping the corresponding proudsoul tiny.
+	non-droppable_enchantments = []
 

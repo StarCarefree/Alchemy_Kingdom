@@ -1,6 +1,7 @@
 package cn.star.ak.cilent.render;
 
 import cn.star.ak.AlchemyKingdom;
+import cn.star.ak.entity.DragonEntity;
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.mojang.math.Axis;
 import mods.flammpfeil.slashblade.client.renderer.model.BladeModelManager;
@@ -35,8 +36,9 @@ public class DragonRender<T extends EntityAbstractSummonedSword> extends EntityR
 
     public void render(T entity, float entityYaw, float partialTicks, PoseStack matrixStack, MultiBufferSource bufferIn, int packedLightIn) {
 
+        if (entity instanceof DragonEntity )return;
         try (MSAutoCloser ignored = MSAutoCloser.pushMatrix(matrixStack)) {
-            float lifetime = 40;
+            float lifetime = 60;
             double deathTime = lifetime;
             double baseAlpha = (Math.min(deathTime, Math.max(0, (lifetime - (entity.tickCount))))
                     / deathTime);
